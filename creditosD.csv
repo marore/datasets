@@ -44,7 +44,7 @@ nro_cta,estado,pais,edad,est_civil,ingreso_anual,sexo,hijos,educacion,antiguedad
 14045227169,Yucatan,Mexico,50,Soltero,$10K - $50K,F,0,Secundaria incompleta,8,Bronze,Empleado Especializado,Si,2,hasta $2K
 14875424500,Zacatecas,Mexico,51,Soltero,$50K - $90K,F,0,Universitario Incompleto,1,Bronze,Empleado,No,2,Rechazado
 14082016300,Jalisco,Mexico,64,Casado,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,2,Rechazado
-14314467300,Zacatecas,Mexico,55,Soltero,$10K - $50K,F,0,sin esTudios,9,Bronze,Empleado Especializado,Si,4,hasta $2K
+14314467300,Zacatecas,Mexico,55,Soltero,$10K - $50K,F,0,sin estudios,9,Bronze,Empleado Especializado,Si,4,hasta $2K
 14861380500,Mexico,Mexico,41,Soltero,$10K - $50K,F,0,Secundaria completa,30,Bronze,Empleado,No,2,Rechazado
 14968046500,DF,Mexico,57,Soltero,$10K - $50K,F,0,Secundaria incompleta,9,Normal,Empleado Especializado,Si,0,hasta $2K
 15004497800,Yucatan,Mexico,50,Casado,$10K - $50K,F,0,Secundaria completa,6,Bronze,Empleado,Si,2,hasta $2K
@@ -110,7 +110,7 @@ nro_cta,estado,pais,edad,est_civil,ingreso_anual,sexo,hijos,educacion,antiguedad
 20701482892,Zacatecas,Mexico,47,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
 20837250900,Zacatecas,Mexico,61,Soltero,$10K - $50K,M,0,Universitario Incompleto,1,Bronze,Profesional Indep.,No,2,Rechazado fuerte
 20979960560,Mexico,Mexico,55,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
-21088970900,Jalisco,Mexico,103,Casado,$50K - $90K,M,0,Universitario completo,10,Bronce,Gerente,Si,1,hasta $5K
+21088970900,Jalisco,Mexico,103,Casado,$50K - $90K,M,0,Universitario completo,10,Bronze,Gerente,Si,1,hasta $5K
 21368778900,Guerrero,Mexico,58,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
 20927330300,Oaxaca,Mexico,54,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado,No,3,Rechazado fuerte
 21445860300,Guerrero,Mexico,42,Casado,$10K - $50K,F,0,Secundaria completa,7,Bronze,Empleado Especializado,Si,1,hasta $2K
@@ -118,7 +118,7 @@ nro_cta,estado,pais,edad,est_civil,ingreso_anual,sexo,hijos,educacion,antiguedad
 21562981600,DF,Mexico,60,Casado,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado fuerte
 21607892513,Jalisco,Mexico,41,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado Especializado,No,2,Rechazado
 21858062148,Zacatecas,Mexico,49,Casado,$50K - $90K,F,0,Universitario completo,9,Silver,Gerente,Si,1,Rechazado
-21662647128,DF,Mexico,44,Soltero,$10K - $50K,M,0,naDa,1,Bronze,Empleado,No,2,Rechazado fuerte
+21662647128,DF,Mexico,44,Soltero,$10K - $50K,M,0,sin estudios,1,Bronze,Empleado,No,2,Rechazado fuerte
 22048499000,Oaxaca,Mexico,59,Soltero,$10K - $50K,F,0,Secundaria incompleta,8,Normal,Empleado Especializado,Si,0,hasta $2K
 22259669303,DF,Mexico,53,Soltero,$50K - $90K,F,0,Posgrado,1,Normal,Profesional Indep.,No,3,Rechazado
 22207747100,DF,Mexico,44,Soltero,$10K - $50K,F,0,Universitario Incompleto,1,Bronze,Administrativo,No,2,Rechazado fuerte
@@ -1172,7 +1172,7 @@ nro_cta,estado,pais,edad,est_civil,ingreso_anual,sexo,hijos,educacion,antiguedad
 78516964912,Sinaloa,Mexico,43,Casado,$10K - $50K,F,5,Secundaria incompleta,10,Normal,Empleado Especializado,Si,1,hasta $5K
 83447052836,Sinaloa,Mexico,44,Casado,$10K - $50K,M,5,Secundaria completa,7,Silver,Empleado,Si,3,hasta $5K
 86350565552,DF,Mexico,66,Casado,$10K - $50K,F,5,Secundaria incompleta,1,Normal,Empleado Especializado,No,0,Rechazado fuerte
-98503643870,DF,Mexico,48,Casado,$10K - $50K,M,5,Posgrado,1,Silver,Profesional Indep.,No,2,Rechazado fuerte
+98503643870,DF,Mexico,48,Casado,$10K - $50K,M,5,Posgrado,1,Silver,Profesional Indep.,No,2, Rechazado fuerte
 98765684962,Yucatan,Mexico,50,Casado,$50K - $90K,F,5,Universitario completo,9,Golden,Profesional Indep.,Si,4,hasta $10K
 99112381935,Sinaloa,Mexico,49,Casado,$110K - $150K,M,5,Universitario completo,10,Golden,Gerente,Si,3,hasta $10K
 11650255918,Jalisco,Mexico,44,Soltero,$90K - $110K,M,10,Posgrado,10,Bronze,Gerente,Si,2,hasta $10K
