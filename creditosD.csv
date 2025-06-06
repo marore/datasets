@@ -1,0 +1,1179 @@
+nro_cta,estado,pais,edad,est_civil,ingreso_anual,sexo,hijos,educacion,antiguedad,tipo_tarj_cred,ocupacion,es_propietario,cant_tarj_cred,monto_otorgado
+10128703117,Jalisco,Mexico,52,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Gerente,No,3,Rechazado
+15109543800,Oaxaca,Mexico,49,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+10412276983,Yucatan,Mexico,45,Soltero,$90K - $110K,F,0,Secundaria incompleta,8,Bronze,Profesional Indep.,Si,2,hasta $10K
+10479793500,DF,Mexico,54,Soltero,$50K - $90K,M,0,Universitario completo,1,Silver,Profesional Indep.,No,3,Rechazado
+18033065800,Mexico,Mexico,51,Casado,$10K - $50K,M,0,Universitario completo,1,Bronze,Gerente,No,4,Rechazado
+16507500400,Guerrero,Mexico,64,Casado,$10K - $50K,M,1,Secundaria incompleta,10,Golden,Profesional Indep.,Si,4,hasta $10K
+11209113000,Mexico,Mexico,58,Soltero,$50K - $90K,F,0,Universitario Incompleto,6,Bronze,Profesional Indep.,Si,2,hasta $5K
+11267295479,Guerrero,Mexico,49,Soltero,$110K - $150K,M,0,Posgrado,8,Bronze,Profesional Indep.,Si,4,hasta $10K
+10247793200,DF,Mexico,49,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado fuerte
+11369557400,Veracruz,Mexico,44,Soltero,$50K - $90K,M,0,Universitario completo,7,Bronze,Profesional Indep.,Si,2,hasta $5K
+11585722000,DF,Mexico,54,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+11696153879,Mexico,Mexico,42,Soltero,$50K - $90K,M,0,Posgrado,7,Bronze,Profesional Indep.,Si,1,hasta $5K
+10639798045,Oaxaca,Mexico,59,Casado,$10K - $50K,M,0,Secundaria completa,8,Bronze,Empleado Especializado,Si,4,hasta $2K
+11962926387,Guerrero,Mexico,61,Casado,$50K - $90K,F,0,Universitario completo,6,Bronze,Profesional Indep.,Si,3,hasta $5K
+10857765078,DF,Mexico,50,Soltero,$10K - $50K,M,0,Secundaria incompleta,10,Bronze,Empleado Especializado,Si,2,hasta $2K
+11281548738,DF,Mexico,48,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado,No,2,Rechazado fuerte
+11822802400,Zacatecas,Mexico,44,Casado,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+12415034174,Mexico,Mexico,56,Casado,$90K - $110K,F,0,Secundaria incompleta,8,Bronze,Profesional Indep.,Si,3,hasta $10K
+11982608437,Zacatecas,Mexico,43,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,2,Rechazado fuerte
+12290692300,Veracruz,Mexico,65,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado,No,3,Rechazado fuerte
+12668797969,Veracruz,Mexico,40,Soltero,$110K - $150K,F,0,Universitario completo,1,Bronze,Profesional Indep.,Si,2,hasta $10K
+12682005167,DF,Mexico,53,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+12386747600,Jalisco,Mexico,38,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado,No,1,Rechazado fuerte
+12547041800,Guerrero,Mexico,40,Casado,$10K - $50K,M,0,Secundaria completa,10,Bronze,Empleado,Si,3,hasta $2K
+12746029500,DF,Mexico,64,Casado,$50K - $90K,M,0,Universitario completo,7,Bronze,Profesional Indep.,Si,2,hasta $5K
+12608013749,Yucatan,Mexico,57,Soltero,$10K - $50K,M,0,Secundaria incompleta,9,Normal,Empleado,Si,1,hasta $2K
+12906055450,Yucatan,Mexico,53,Soltero,$50K - $90K,M,0,Universitario completo,1,Golden,Gerente,Si,1,Rechazado
+12908957600,Guerrero,Mexico,49,Soltero,$150K +,M,0,Secundaria completa,7,Normal,Profesional Indep.,Si,4,hasta $10K
+12696274518,DF,Mexico,66,Casado,$10K - $50K,M,0,Secundaria incompleta,9,Bronze,Empleado,Si,3,hasta $2K
+13353893200,DF,Mexico,64,Soltero,$50K - $90K,F,0,Universitario completo,7,Silver,Gerente,Si,1,hasta $10K
+13640691041,Guerrero,Mexico,37,Soltero,$50K - $90K,M,0,Secundaria incompleta,1,Silver,Profesional Indep.,No,3,Rechazado
+13761127600,DF,Mexico,61,Soltero,$50K - $90K,F,0,Universitario completo,9,Bronze,Profesional Indep.,Si,3,hasta $5K
+12719287900,Sinaloa,Mexico,38,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,2,Rechazado
+12831565141,DF,Mexico,35,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado,No,1,Rechazado fuerte
+13884021043,Sinaloa,Mexico,43,Soltero,$90K - $110K,F,0,Universitario Incompleto,1,Bronze,Empleado,No,1,Rechazado
+13944215178,Zacatecas,Mexico,56,Soltero,$90K - $110K,F,0,Secundaria incompleta,7,Bronze,Gerente,Si,2,hasta $10K
+13082705736,Oaxaca,Mexico,43,Soltero,$10K - $50K,M,0,Secundaria completa,8,Bronze,Empleado,Si,3,hasta $2K
+13818344500,Veracruz,Mexico,45,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Bronze,Empleado,No,1,Rechazado fuerte
+13851807700,Guerrero,Mexico,50,Casado,$10K - $50K,F,0,Universitario Incompleto,9,Bronze,Profesional Indep.,Si,1,hasta $2K
+13980135300,Yucatan,Mexico,,Casado,$10K - $50K,F,0,Universitario Incompleto,10,Bronze,Gerente,Si,2,hasta $2K
+14161393642,Veracruz,Mexico,60,Soltero,$50K - $90K,F,0,Universitario completo,10,Bronze,Profesional Indep.,Si,4,hasta $5K
+14036837220,Veracruz,Mexico,63,Casado,$10K - $50K,F,0,Secundaria incompleta,8,Normal,Empleado Especializado,Si,10,hasta $2K
+14045227169,Yucatan,Mexico,50,Soltero,$10K - $50K,F,0,Secundaria incompleta,8,Bronze,Empleado Especializado,Si,2,hasta $2K
+14875424500,Zacatecas,Mexico,51,Soltero,$50K - $90K,F,0,Universitario Incompleto,1,Bronze,Empleado,No,2,Rechazado
+14082016300,Jalisco,Mexico,64,Casado,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,2,Rechazado
+14314467300,Zacatecas,Mexico,55,Soltero,$10K - $50K,F,0,sin esTudios,9,Bronze,Empleado Especializado,Si,4,hasta $2K
+14861380500,Mexico,Mexico,41,Soltero,$10K - $50K,F,0,Secundaria completa,30,Bronze,Empleado,No,2,Rechazado
+14968046500,DF,Mexico,57,Soltero,$10K - $50K,F,0,Secundaria incompleta,9,Normal,Empleado Especializado,Si,0,hasta $2K
+15004497800,Yucatan,Mexico,50,Casado,$10K - $50K,F,0,Secundaria completa,6,Bronze,Empleado,Si,2,hasta $2K
+15132331848,Mexico,Mexico,35,Soltero,$10K - $50K,F,0,Secundaria completa,1,Golden,Empleado Especializado,No,3,Rechazado
+15419199500,Oaxaca,Mexico,41,Soltero,$90K - $110K,F,0,Secundaria completa,1,Bronze,Gerente,No,1,Rechazado
+15144621729,Zacatecas,Mexico,66,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado Especializado,No,4,Rechazado fuerte
+15361945033,DF,Mexico,56,Soltero,$10K - $50K,M,0,Secundaria incompleta,56,Normal,Empleado Especializado,Si,1,hasta $2K
+15467602600,Guerrero,Mexico,50,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado,No,2,Rechazado fuerte
+15486673116,Zacatecas,Mexico,37,Soltero,$10K - $50K,M,0,Secundaria completa,8,Silver,Empleado Especializado,Si,22,hasta $5K
+15560074400,Sinaloa,Mexico,47,Soltero,$10K - $50K,M,0,Universitario completo,10,Normal,Gerente,Si,2,hasta $2K
+15737550900,Zacatecas,Mexico,60,Soltero,$10K - $50K,F,0,Universitario Incompleto,1,Bronze,Gerente,No,2,Rechazado fuerte
+15983343124,Sinaloa,Mexico,51,Soltero,$50K - $90K,M,0,Universitario completo,1,Silver,Profesional Indep.,No,4,Rechazado
+15916550755,Oaxaca,Mexico,59,Casado,$10K - $50K,F,0,Secundaria incompleta,7,Normal,Empleado,Si,0,hasta $2K
+15921952724,Zacatecas,Mexico,41,Casado,$10K - $50K,F,0,Secundaria incompleta,1,Bronze,Empleado Especializado,No,3,Rechazado
+16038526892,Mexico,Mexico,57,Soltero,$10K - $50K,M,0,Secundaria incompleta,8,Normal,Empleado Especializado,Si,2,hasta $2K
+16052538752,Guerrero,Mexico,50,Soltero,$10K - $50K,F,0,Secundaria incompleta,9,Normal,Empleado Especializado,Si,2,hasta $2K
+16146743297,Jalisco,Mexico,53,Soltero,$10K - $50K,M,0,Secundaria completa,8,Normal,Empleado Especializado,Si,2,hasta $5K
+16484347600,Zacatecas,Mexico,46,Soltero,$90K - $110K,F,0,Secundaria completa,0,Silver,Profesional Indep.,Si,2,hasta $10K
+16504512400,DF,Mexico,38,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,4,Rechazado
+16505858900,Yucatan,Mexico,58,Casado,$90K - $110K,M,0,Universitario completo,7,Silver,Gerente,Si,2,hasta $10K
+16564567100,DF,Mexico,52,Soltero,$150K +,F,0,Secundaria completa,1,Silver,Profesional Indep.,Si,4,hasta $10K
+16647104024,Zacatecas,Mexico,52,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+16688860700,DF,Mexico,57,Soltero,$110K - $150K,F,0,Posgrado,8,Bronze,Profesional Indep.,Si,2,hasta $10K
+-1,Zacatecas,Mexico,52,Soltero,$50K - $90K,F,0,Secundaria incompleta,1,Bronze,Empleado,No,2,Rechazado
+17048888200,Jalisco,Mexico,36,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+16206631660,Mexico,Mexico,56,Soltero,$10K - $50K,F,0,Secundaria incompleta,7,Normal,Empleado,Si,1,hasta $2K
+17468074600,DF,Mexico,60,Soltero,$50K - $90K,F,0,Secundaria incompleta,6,Silver,Empleado,Si,2,hasta $10K
+17478234800,Sinaloa,Mexico,50,Soltero,$50K - $90K,M,0,Universitario completo,7,Bronze,Profesional Indep.,Si,2,hasta $5K
+16404637694,Yucatan,Mexico,43,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,1,Rechazado
+17641216500,Mexico,Mexico,50,Soltero,$50K - $90K,F,0,Universitario completo,9,Bronze,Profesional Indep.,Si,1,hasta $5K
+17049569487,Zacatecas,Mexico,61,Casado,$10K - $50K,F,0,Secundaria completa,9,Normal,Empleado,Si,3,hasta $2K
+17573394200,Yucatan,Mexico,49,Casado,$10K - $50K,M,0,Secundaria completa,9,Bronze,Empleado Especializado,Si,1,hasta $2K
+17697086900,DF,Mexico,54,Soltero,$10K - $50K,F,0,Universitario Incompleto,8,Bronze,Administrativo,Si,4,hasta $2K
+17703830003,Yucatan,Mexico,50,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,0,Rechazado
+17713072900,DF,Mexico,52,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado fuerte
+17910714100,Sinaloa,Mexico,51,Soltero,$10K - $50K,F,0,Secundaria incompleta,7,Normal,Empleado,Si,2,hasta $2K
+18085202600,Guerrero,Mexico,60,Soltero,$110K - $150K,M,0,Universitario completo,7,Bronze,Gerente,Si,2,hasta $10K
+17945969100,DF,Mexico,42,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,0,Rechazado fuerte
+18490344900,Jalisco,Mexico,63,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+18435815572,Zacatecas,Mexico,102,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado,No,1,Rechazado
+18509388566,Veracruz,Mexico,41,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado,No,3,Rechazado fuerte
+18822568655,Jalisco,Mexico,63,Soltero,$10K - $50K,M,0,Universitario Incompleto,1,Normal,Profesional Indep.,No,2,Rechazado
+18844546700,DF,Mexico,60,Soltero,$10K - $50K,F,0,Secundaria completa,1,Normal,Empleado Especializado,No,1,Rechazado fuerte
+18971399068,DF,Mexico,58,Soltero,$10K - $50K,M,0,Secundaria incompleta,9,Normal,Empleado,Si,0,hasta $2K
+19394447800,Oaxaca,Mexico,38,Soltero,$90K - $110K,M,0,Secundaria incompleta,7,Bronze,Gerente,Si,3,hasta $10K
+19208608300,Guerrero,Mexico,35,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado,No,2,Rechazado fuerte
+19531138500,Jalisco,Mexico,47,Casado,$110K - $150K,F,0,Secundaria completa,7,Bronze,Profesional Indep.,Si,4,hasta $10K
+19421827793,DF,Mexico,66,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado,No,2,Rechazado fuerte
+20042946900,Oaxaca,Mexico,58,Soltero,$90K - $110K,M,0,Secundaria completa,7,Bronze,Gerente,Si,2,hasta $10K
+19998878200,Jalisco,Mexico,48,Soltero,$10K - $50K,F,0,Secundaria completa,1,Silver,Empleado,No,2,Rechazado
+20088211900,Guerrero,Mexico,55,Soltero,$10K - $50K,F,0,Secundaria incompleta,8,Normal,Empleado,Si,2,hasta $2K
+20114132761,Veracruz,Mexico,60,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,2,Rechazado
+20165743800,Zacatecas,Mexico,64,Soltero,$10K - $50K,M,0,Secundaria incompleta,9,Normal,Empleado,Si,1,hasta $2K
+20175480246,Mexico,Mexico,57,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Golden,Empleado Especializado,No,3,Rechazado
+20179761052,Mexico,Mexico,36,Casado,$10K - $50K,F,0,Secundaria incompleta,1,Bronze,Empleado Especializado,No,2,Rechazado
+20412925481,Yucatan,Mexico,65,Soltero,$10K - $50K,F,0,Universitario Incompleto,1,Bronze,Empleado,No,4,Rechazado fuerte
+20418418645,Guerrero,Mexico,53,Soltero,$10K - $50K,F,0,Secundaria incompleta,7,Normal,Empleado,Si,1,hasta $2K
+20474385600,Veracruz,Mexico,58,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+20525175900,DF,Mexico,41,Soltero,$110K - $150K,M,0,Secundaria completa,9,Bronze,Profesional Indep.,Si,3,hasta $10K
+20452321767,DF,Mexico,49,Casado,$10K - $50K,M,0,Secundaria completa,7,Bronze,Empleado Especializado,Si,3,hasta $2K
+20639904737,Yucatan,Mexico,54,Casado,$10K - $50K,F,0,Secundaria completa,6,Bronze,Empleado Especializado,Si,2,hasta $2K
+20640205100,Jalisco,Mexico,36,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado,No,4,Rechazado fuerte
+20701482892,Zacatecas,Mexico,47,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+20837250900,Zacatecas,Mexico,61,Soltero,$10K - $50K,M,0,Universitario Incompleto,1,Bronze,Profesional Indep.,No,2,Rechazado fuerte
+20979960560,Mexico,Mexico,55,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+21088970900,Jalisco,Mexico,103,Casado,$50K - $90K,M,0,Universitario completo,10,Bronce,Gerente,Si,1,hasta $5K
+21368778900,Guerrero,Mexico,58,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+20927330300,Oaxaca,Mexico,54,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado,No,3,Rechazado fuerte
+21445860300,Guerrero,Mexico,42,Casado,$10K - $50K,F,0,Secundaria completa,7,Bronze,Empleado Especializado,Si,1,hasta $2K
+21509702205,Mexico,Mexico,47,Casado,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,4,Rechazado
+21562981600,DF,Mexico,60,Casado,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado fuerte
+21607892513,Jalisco,Mexico,41,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado Especializado,No,2,Rechazado
+21858062148,Zacatecas,Mexico,49,Casado,$50K - $90K,F,0,Universitario completo,9,Silver,Gerente,Si,1,Rechazado
+21662647128,DF,Mexico,44,Soltero,$10K - $50K,M,0,naDa,1,Bronze,Empleado,No,2,Rechazado fuerte
+22048499000,Oaxaca,Mexico,59,Soltero,$10K - $50K,F,0,Secundaria incompleta,8,Normal,Empleado Especializado,Si,0,hasta $2K
+22259669303,DF,Mexico,53,Soltero,$50K - $90K,F,0,Posgrado,1,Normal,Profesional Indep.,No,3,Rechazado
+22207747100,DF,Mexico,44,Soltero,$10K - $50K,F,0,Universitario Incompleto,1,Bronze,Administrativo,No,2,Rechazado fuerte
+22375809000,Jalisco,Mexico,62,Casado,$10K - $50K,M,0,Secundaria incompleta,7,Normal,Empleado Especializado,Si,1,hasta $2K
+22718209000,Guerrero,Mexico,63,Soltero,$10K - $50K,M,0,Secundaria completa,9,Bronze,Empleado,Si,3,hasta $2K
+22943788200,DF,Mexico,42,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,1,Rechazado
+22849969900,DF,Mexico,43,Soltero,$10K - $50K,M,0,Secundaria incompleta,7,Normal,Empleado Especializado,Si,2,hasta $2K
+23189382000,DF,Mexico,58,Casado,$110K - $150K,M,0,Secundaria completa,1,Bronze,Profesional Indep.,No,3,Rechazado
+23417847156,DF,Mexico,60,Soltero,$110K - $150K,M,0,Secundaria completa,9,Bronze,Profesional Indep.,Si,2,hasta $10K
+23049703200,Yucatan,Mexico,57,Casado,$10K - $50K,M,0,Secundaria completa,8,Golden,Empleado Especializado,Si,2,hasta $5K
+23490760326,DF,Mexico,56,Soltero,$10K - $50K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado fuerte
+23785996437,Jalisco,Mexico,66,Soltero,$90K - $110K,F,0,Posgrado,6,Bronze,Profesional Indep.,Si,2,hasta $10K
+23804868500,DF,Mexico,39,Soltero,$50K - $90K,F,0,Universitario completo,7,Bronze,Profesional Indep.,Si,1,hasta $5K
+24028800700,Zacatecas,Mexico,60,Soltero,$50K - $90K,M,0,Secundaria completa,8,Silver,Empleado Especializado,Si,4,hasta $10K
+24119480800,DF,Mexico,60,Casado,$110K - $150K,M,0,Universitario Incompleto,6,Golden,Profesional Indep.,Si,3,Rechazado
+24161950945,DF,Mexico,55,Soltero,$110K - $150K,M,0,Universitario Incompleto,9,Bronze,Gerente,Si,4,hasta $10K
+24181627600,Oaxaca,Mexico,39,Soltero,$50K - $90K,M,0,Universitario completo,10,Bronze,Gerente,Si,2,hasta $5K
+23578393500,Oaxaca,Mexico,62,Casado,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,0,Rechazado fuerte
+24220171000,DF,Mexico,36,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Bronze,Empleado,No,4,Rechazado fuerte
+24376870989,DF,Mexico,61,Soltero,$50K - $90K,F,0,Secundaria incompleta,1,Bronze,Empleado Especializado,No,2,Rechazado
+24518051700,DF,Mexico,54,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,1,Rechazado
+24278208613,DF,Mexico,64,Casado,$10K - $50K,F,0,Secundaria incompleta,9,Normal,Empleado,Si,2,hasta $2K
+25032547700,Yucatan,Mexico,51,Soltero,$150K +,M,0,Universitario completo,8,Silver,Gerente,Si,4,hasta $10K
+24684021500,Mexico,Mexico,51,Soltero,$10K - $50K,M,0,Secundaria completa,7,Normal,Empleado Especializado,Si,3,hasta $5K
+25087656378,Sinaloa,Mexico,48,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Gerente,No,1,Rechazado
+25259886384,DF,Mexico,50,Casado,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,1,Rechazado
+25087077000,Oaxaca,Mexico,65,Soltero,$10K - $50K,M,0,Secundaria completa,7,Bronze,Empleado Especializado,Si,3,hasta $2K
+25407515200,Zacatecas,Mexico,43,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,2,Rechazado fuerte
+25486549139,DF,Mexico,64,Soltero,$110K - $150K,M,0,Universitario completo,7,Bronze,Gerente,Si,3,hasta $10K
+25457409600,Guerrero,Mexico,48,Soltero,$10K - $50K,M,0,Universitario Incompleto,1,Bronze,Administrativo,No,1,Rechazado fuerte
+25585104227,DF,Mexico,61,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,2,Rechazado
+25784574700,Zacatecas,Mexico,49,Soltero,$150K +,M,0,Secundaria incompleta,7,Silver,Profesional Indep.,Si,2,hasta $10K
+25913991332,Yucatan,Mexico,62,Soltero,$50K - $90K,M,0,Universitario Incompleto,1,Bronze,Gerente,No,3,Rechazado
+25624554157,Zacatecas,Mexico,57,Soltero,$10K - $50K,M,0,Secundaria completa,1,Golden,Empleado Especializado,No,2,Rechazado
+25929902195,Jalisco,Mexico,58,Soltero,$10K - $50K,M,0,Secundaria completa,1,Normal,Empleado,No,1,Rechazado
+26032067537,DF,Mexico,65,Soltero,$10K - $50K,F,0,Secundaria incompleta,9,Normal,Empleado,Si,1,hasta $2K
+26611000895,DF,Mexico,38,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+26633853300,DF,Mexico,60,Casado,$50K - $90K,F,0,Universitario completo,8,Silver,Profesional Indep.,Si,3,hasta $10K
+26712130900,Jalisco,Mexico,60,Soltero,$50K - $90K,F,0,Universitario completo,10,Bronze,Profesional Indep.,Si,3,hasta $5K
+26134592300,Guerrero,Mexico,41,Casado,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,0,Rechazado
+26740514000,DF,Mexico,51,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado Especializado,No,1,Rechazado fuerte
+26786594390,Zacatecas,Mexico,36,Soltero,$50K - $90K,M,0,Posgrado,6,Bronze,Profesional Indep.,Si,2,hasta $5K
+26801765000,DF,Mexico,48,Soltero,$50K - $90K,F,0,Posgrado,10,Bronze,Profesional Indep.,Si,2,hasta $5K
+27034215900,DF,Mexico,50,Casado,$50K - $90K,M,0,Secundaria completa,8,Bronze,Profesional Indep.,Si,2,hasta $5K
+26783284544,Mexico,Mexico,65,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado fuerte
+27122203100,DF,Mexico,50,Casado,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,hasta $10K
+27068290710,Jalisco,Mexico,45,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Bronze,Empleado Especializado,No,0,Rechazado fuerte
+27202428000,Veracruz,Mexico,59,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+27162463068,Yucatan,Mexico,46,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado,No,2,Rechazado
+27204369900,Zacatecas,Mexico,65,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado,No,2,Rechazado fuerte
+-1,Jalisco,Mexico,45,Soltero,$50K - $90K,F,0,Universitario completo,9,Bronze,Profesional Indep.,Si,1,hasta $5K
+27243165373,DF,Mexico,57,Casado,$10K - $50K,M,0,Secundaria completa,9,Bronze,Empleado,Si,3,hasta $2K
+27851672800,Jalisco,Mexico,49,Soltero,$50K - $90K,M,0,Posgrado,1,Bronze,Profesional Indep.,No,2,Rechazado
+27623406100,Veracruz,Mexico,39,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+28033161759,Sinaloa,Mexico,57,Soltero,$50K - $90K,M,0,Universitario completo,8,Bronze,Profesional Indep.,Si,2,hasta $5K
+28016746600,Mexico,Mexico,47,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado,No,3,Rechazado fuerte
+28065450200,DF,Mexico,41,Casado,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,3,Rechazado fuerte
+28187222480,DF,Mexico,36,Casado,$50K - $90K,M,0,Universitario completo,9,Bronze,Profesional Indep.,Si,2,hasta $5K
+28115698695,Oaxaca,Mexico,51,Casado,$10K - $50K,F,0,Secundaria completa,10,Bronze,Empleado Especializado,Si,4,hasta $2K
+28299092100,DF,Mexico,53,Soltero,$90K - $110K,M,0,Secundaria incompleta,8,Bronze,Profesional Indep.,Si,3,hasta $10K
+28332995176,Sinaloa,Mexico,60,Soltero,$90K - $110K,M,0,Secundaria completa,8,Bronze,Profesional Indep.,Si,1,hasta $10K
+28361501693,DF,Mexico,63,Soltero,$110K - $150K,F,0,Secundaria incompleta,7,Bronze,Profesional Indep.,Si,1,hasta $10K
+28292788863,DF,Mexico,49,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado,No,4,Rechazado fuerte
+28378244042,Yucatan,Mexico,64,Soltero,$10K - $50K,F,0,Secundaria completa,8,Bronze,Empleado,Si,3,hasta $2K
+28458640600,Zacatecas,Mexico,62,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Silver,Empleado Especializado,No,4,Rechazado
+28551691770,DF,Mexico,103,Soltero,$10K - $50K,F,0,Universitario Incompleto,9,Normal,Profesional Indep.,Si,0,hasta $2K
+28583980200,Veracruz,Mexico,66,Casado,$10K - $50K,F,0,Secundaria completa,9,Bronze,Empleado,Si,3,hasta $2K
+28611467500,Veracruz,Mexico,40,Casado,$110K - $150K,F,0,Secundaria incompleta,7,Normal,Gerente,Si,3,hasta $10K
+28584876100,Veracruz,Mexico,42,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,2,Rechazado fuerte
+28766381100,DF,Mexico,51,Soltero,$110K - $150K,F,0,Secundaria completa,8,Bronze,Profesional Indep.,Si,4,hasta $10K
+28647468100,Guerrero,Mexico,102,Soltero,$10K - $50K,F,0,Secundaria incompleta,7,Normal,Empleado,No,1,hasta $2K
+28966565100,DF,Mexico,62,Soltero,$10K - $50K,F,0,Secundaria incompleta,9,Normal,Empleado,Si,2,hasta $2K
+29006004300,Guerrero,Mexico,37,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+29117434024,Guerrero,Mexico,60,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+29326785802,Oaxaca,Mexico,34,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado,No,1,Rechazado
+29435120224,Oaxaca,Mexico,65,Soltero,$10K - $50K,M,0,Posgrado,1,Silver,Gerente,No,2,Rechazado
+29552021600,Jalisco,Mexico,62,Casado,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+29789997900,Guerrero,Mexico,35,Soltero,$50K - $90K,F,0,Posgrado,1,Bronze,Profesional Indep.,No,3,hasta $10K
+29866483800,DF,Mexico,52,Soltero,$50K - $90K,F,0,Secundaria completa,1,Bronze,Profesional Indep.,No,4,Rechazado
+29879932403,Veracruz,Mexico,39,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+30077423500,Oaxaca,Mexico,64,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+29553732872,Guerrero,Mexico,60,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Bronze,Empleado Especializado,No,2,Rechazado fuerte
+30251761700,Guerrero,Mexico,44,Soltero,$90K - $110K,M,0,Secundaria completa,1,Bronze,Gerente,No,2,Rechazado
+30078169100,DF,Mexico,55,Casado,$10K - $50K,F,0,Secundaria completa,8,Bronze,Empleado,Si,3,hasta $2K
+30385164000,Guerrero,Mexico,59,Soltero,$10K - $50K,M,0,Secundaria incompleta,6,Normal,Empleado Especializado,Si,1,hasta $2K
+30806742900,Yucatan,Mexico,63,Soltero,$50K - $90K,M,0,Secundaria incompleta,1,Bronze,Profesional Indep.,No,1,Rechazado
+30865601300,Veracruz,Mexico,56,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+30745856761,Zacatecas,Mexico,65,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,1,Rechazado
+31131365300,DF,Mexico,38,Soltero,$50K - $90K,F,0,Posgrado,9,Bronze,Profesional Indep.,Si,1,hasta $5K
+31064438800,Zacatecas,Mexico,66,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado,No,2,Rechazado fuerte
+-1,Jalisco,Mexico,52,Soltero,$50K - $90K,F,0,Universitario completo,1,Golden,Profesional Indep.,No,2,Rechazado
+31228767000,Oaxaca,Mexico,40,Soltero,$10K - $50K,M,0,Secundaria completa,10,Bronze,Empleado Especializado,Si,1,hasta $2K
+31385772800,Veracruz,Mexico,49,Soltero,$10K - $50K,M,0,Universitario Incompleto,8,Bronze,Empleado Especializado,Si,2,hasta $2K
+31386733055,Sinaloa,Mexico,45,Casado,$10K - $50K,F,0,Universitario Incompleto,9,Bronze,Administrativo,Si,2,hasta $2K
+31404446400,Mexico,Mexico,50,Soltero,$10K - $50K,M,0,Secundaria completa,1,Silver,Empleado Especializado,No,4,Rechazado
+31538449500,Yucatan,Mexico,52,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,1,Rechazado fuerte
+31616555452,DF,Mexico,63,Casado,$10K - $50K,M,0,Secundaria completa,6,Bronze,Empleado,Si,3,hasta $2K
+31656616900,Zacatecas,Mexico,49,Casado,$10K - $50K,F,0,Secundaria incompleta,6,Normal,Empleado,Si,1,hasta $2K
+31707407200,Zacatecas,Mexico,53,Casado,$50K - $90K,M,0,Universitario completo,7,Silver,Gerente,Si,1,hasta $10K
+31759249000,Sinaloa,Mexico,53,Soltero,$110K - $150K,M,0,Secundaria incompleta,8,Golden,Gerente,Si,4,hasta $10K
+31659755100,DF,Mexico,54,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Bronze,Empleado Especializado,No,3,Rechazado fuerte
+31881895700,Guerrero,Mexico,55,Casado,$150K +,F,0,Secundaria incompleta,9,Golden,Profesional Indep.,Si,4,hasta $10K
+31782750487,Mexico,Mexico,39,Casado,$10K - $50K,M,0,Universitario Incompleto,6,Bronze,Empleado,Si,3,hasta $2K
+31921608448,DF,Mexico,42,Soltero,$110K - $150K,M,0,Secundaria completa,9,Bronze,Gerente,Si,2,hasta $10K
+31953462362,Zacatecas,Mexico,54,Soltero,$50K - $90K,F,0,Secundaria completa,8,Bronze,Gerente,Si,3,hasta $5K
+31914849281,DF,Mexico,61,Soltero,$10K - $50K,F,0,Secundaria completa,9,Bronze,Empleado Especializado,Si,1,hasta $2K
+32055933500,Yucatan,Mexico,42,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,2,Rechazado fuerte
+32078029513,DF,Mexico,60,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Bronze,Empleado,No,2,Rechazado fuerte
+32288550734,DF,Mexico,58,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado,No,2,Rechazado fuerte
+32669579982,Mexico,Mexico,60,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado,No,3,Rechazado fuerte
+32905061800,Zacatecas,Mexico,60,Soltero,$50K - $90K,F,0,Universitario Incompleto,1,Bronze,Profesional Indep.,No,2,Rechazado
+32931068539,Oaxaca,Mexico,62,Soltero,$110K - $150K,F,0,Universitario Incompleto,6,Bronze,Profesional Indep.,Si,2,hasta $10K
+32767083644,Jalisco,Mexico,48,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado,Si,3,Rechazado
+33141520023,Guerrero,Mexico,56,Soltero,$50K - $90K,M,0,Secundaria incompleta,1,Normal,Profesional Indep.,No,4,Rechazado
+33222962600,Mexico,Mexico,66,Soltero,$90K - $110K,F,0,Secundaria completa,9,Bronze,Profesional Indep.,Si,2,hasta $10K
+33062115907,DF,Mexico,60,Soltero,$10K - $50K,F,0,Secundaria incompleta,6,Normal,Empleado,Si,2,hasta $2K
+33236856500,Zacatecas,Mexico,104,Soltero,$110K - $150K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+33294711709,Veracruz,Mexico,64,Soltero,$50K - $90K,M,0,Universitario Incompleto,7,Bronze,Profesional Indep.,Si,3,hasta $5K
+33225076198,Mexico,Mexico,67,Casado,$10K - $50K,F,0,Universitario Incompleto,9,Bronze,Administrativo,Si,4,hasta $2K
+33443461700,Veracruz,Mexico,53,Casado,$110K - $150K,F,0,Posgrado,8,Normal,Profesional Indep.,Si,3,hasta $10K
+33620423078,DF,Mexico,41,Casado,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+33308750391,Oaxaca,Mexico,40,Casado,$10K - $50K,M,0,Secundaria completa,10,Silver,Empleado Especializado,Si,2,hasta $5K
+33693690300,Sinaloa,Mexico,41,Soltero,$10K - $50K,M,0,Secundaria completa,6,Bronze,Empleado Especializado,Si,2,hasta $2K
+34026042819,Veracruz,Mexico,60,Soltero,$50K - $90K,M,0,Secundaria completa,7,Bronze,Empleado,Si,2,hasta $5K
+33732678900,Yucatan,Mexico,35,Soltero,$10K - $50K,F,0,Secundaria completa,9,Bronze,Empleado,Si,4,hasta $2K
+34059393400,Zacatecas,Mexico,55,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Gerente,No,3,Rechazado
+34297219500,Sinaloa,Mexico,57,Casado,$50K - $90K,F,0,Universitario completo,7,Bronze,Profesional Indep.,Si,3,hasta $5K
+34046545600,Jalisco,Mexico,53,Soltero,$10K - $50K,F,0,Secundaria incompleta,9,Normal,Empleado Especializado,Si,2,hasta $2K
+34491722583,Zacatecas,Mexico,43,Soltero,$110K - $150K,F,0,Secundaria incompleta,8,Bronze,Profesional Indep.,Si,2,hasta $10K
+34341250658,Zacatecas,Mexico,45,Casado,$10K - $50K,F,0,Secundaria completa,1,Silver,Empleado Especializado,No,2,Rechazado
+34539830700,Mexico,Mexico,67,Soltero,$90K - $110K,F,0,Secundaria incompleta,10,Bronze,Profesional Indep.,Si,2,hasta $10K
+34513990283,DF,Mexico,64,Casado,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,3,Rechazado fuerte
+34558091163,Zacatecas,Mexico,43,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+34690860500,DF,Mexico,49,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado fuerte
+34755812883,Zacatecas,Mexico,60,Soltero,$10K - $50K,M,0,Secundaria completa,9,Bronze,Empleado,Si,4,hasta $2K
+34838607300,Zacatecas,Mexico,51,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+34807236200,Sinaloa,Mexico,50,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado,No,4,Rechazado fuerte
+34943900108,Mexico,Mexico,50,Soltero,$10K - $50K,M,0,Secundaria incompleta,10,Normal,Empleado Especializado,Si,1,hasta $2K
+35070607700,DF,Mexico,59,Soltero,$10K - $50K,F,0,Secundaria completa,1,Normal,Empleado,No,1,Rechazado
+35262567996,Veracruz,Mexico,60,Soltero,$50K - $90K,F,0,Universitario Incompleto,8,Bronze,Gerente,Si,3,hasta $5K
+35258989900,Jalisco,Mexico,66,Soltero,$10K - $50K,F,0,Secundaria completa,8,Bronze,Empleado,Si,3,hasta $2K
+35407965183,Yucatan,Mexico,49,Soltero,$10K - $50K,F,0,Secundaria incompleta,10,Bronze,Empleado,Si,3,hasta $2K
+36017057299,Mexico,Mexico,63,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Gerente,No,1,Rechazado
+36083152294,Yucatan,Mexico,60,Casado,$110K - $150K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,1,Rechazado
+36115767955,DF,Mexico,54,Soltero,$50K - $90K,F,0,Posgrado,1,Bronze,Gerente,No,1,Rechazado
+36004338264,Oaxaca,Mexico,43,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,0,Rechazado
+36221951200,Oaxaca,Mexico,59,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+36459165811,Yucatan,Mexico,34,Soltero,$50K - $90K,M,0,Secundaria completa,1,Bronze,Profesional Indep.,No,3,Rechazado
+36811291600,Guerrero,Mexico,58,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+36175194978,Sinaloa,Mexico,53,Casado,$10K - $50K,M,0,Secundaria incompleta,9,Normal,Empleado,Si,1,hasta $2K
+37011475600,DF,Mexico,51,Soltero,$10K - $50K,M,0,Secundaria completa,1,Silver,Empleado Especializado,No,1,Rechazado
+37165643600,Zacatecas,Mexico,54,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,2,Rechazado
+37290833000,DF,Mexico,43,Soltero,$110K - $150K,M,0,Secundaria incompleta,9,Bronze,Gerente,Si,2,hasta $10K
+37291798591,Mexico,Mexico,53,Casado,$50K - $90K,M,0,Universitario completo,10,Bronze,Gerente,Si,3,hasta $5K
+37258265600,Zacatecas,Mexico,55,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,Si,1,Rechazado
+37305622700,DF,Mexico,42,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado,No,3,Rechazado fuerte
+37336409091,Oaxaca,Mexico,51,Soltero,$50K - $90K,F,0,Secundaria incompleta,1,Bronze,Gerente,No,4,Rechazado
+37330272200,Jalisco,Mexico,62,Soltero,$10K - $50K,M,0,Secundaria completa,9,Bronze,Empleado Especializado,Si,1,hasta $2K
+37753717899,Zacatecas,Mexico,48,Casado,$50K - $90K,F,0,Secundaria incompleta,8,Bronze,Gerente,Si,3,hasta $5K
+37448117733,Zacatecas,Mexico,103,Soltero,$10K - $50K,M,0,Secundaria completa,7,Golden,Empleado Especializado,Si,3,hasta $5K
+37873553633,DF,Mexico,49,Soltero,$10K - $50K,F,0,Secundaria completa,10,Silver,Empleado,Si,2,hasta $5K
+38162309527,Oaxaca,Mexico,37,Soltero,$150K +,F,0,Secundaria incompleta,7,Golden,Profesional Indep.,Si,3,hasta $10K
+38179078698,Yucatan,Mexico,60,Soltero,$50K - $90K,F,0,Posgrado,6,Bronze,Profesional Indep.,Si,2,hasta $5K
+38028665800,Zacatecas,Mexico,64,Soltero,$10K - $50K,M,0,Secundaria completa,10,Bronze,Empleado,Si,2,hasta $2K
+38224665500,Sinaloa,Mexico,56,Soltero,$10K - $50K,F,0,Secundaria completa,1,Normal,Empleado,No,3,Rechazado
+38385855600,Mexico,Mexico,49,Soltero,$50K - $90K,F,0,Secundaria incompleta,7,Bronze,Gerente,Si,2,hasta $5K
+38288153400,Jalisco,Mexico,58,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,0,Rechazado
+38430820100,Oaxaca,Mexico,43,Soltero,$10K - $50K,M,0,Secundaria completa,8,Bronze,Empleado Especializado,Si,3,hasta $2K
+38466643691,Guerrero,Mexico,50,Soltero,$10K - $50K,M,0,Secundaria incompleta,7,Normal,Empleado Especializado,Si,1,hasta $2K
+38471439480,Oaxaca,Mexico,55,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,2,Rechazado
+38487355709,Yucatan,Mexico,43,Soltero,$90K - $110K,M,0,Posgrado,7,Bronze,Profesional Indep.,Si,2,hasta $10K
+38492221200,Zacatecas,Mexico,56,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+38637446761,Zacatecas,Mexico,51,Soltero,$50K - $90K,F,0,Universitario completo,8,Bronze,Profesional Indep.,Si,2,hasta $5K
+38694492000,DF,Mexico,47,Soltero,$50K - $90K,M,0,Universitario completo,6,Silver,Gerente,Si,2,hasta $10K
+38485542535,Mexico,Mexico,56,Soltero,$10K - $50K,F,0,Universitario Incompleto,1,Bronze,Administrativo,No,3,Rechazado fuerte
+38812659400,Zacatecas,Mexico,35,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,2,Rechazado
+38857023119,DF,Mexico,38,Casado,$10K - $50K,M,0,Secundaria incompleta,7,Normal,Empleado Especializado,Si,2,hasta $2K
+38932554125,DF,Mexico,50,Soltero,$110K - $150K,M,0,Secundaria completa,10,Silver,Gerente,Si,2,hasta $10K
+38918874900,Sinaloa,Mexico,47,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,Si,1,Rechazado
+39010922908,Jalisco,Mexico,42,Soltero,$10K - $50K,F,0,Secundaria completa,9,Normal,desOuPado,Si,0,hasta $2K
+39030996561,Sinaloa,Mexico,49,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+39657903900,Oaxaca,Mexico,38,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+39723730683,Guerrero,Mexico,63,Soltero,$50K - $90K,F,0,Universitario completo,1,Normal,Profesional Indep.,Si,4,Rechazado
+39776135683,DF,Mexico,47,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+39823428400,Jalisco,Mexico,54,Casado,$50K - $90K,F,0,Universitario Incompleto,10,Bronze,Profesional Indep.,Si,3,hasta $5K
+39834929700,Sinaloa,Mexico,37,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+39865764379,Mexico,Mexico,58,Soltero,$50K - $90K,F,0,Secundaria completa,8,Bronze,Profesional Indep.,Si,3,hasta $5K
+39275984168,Veracruz,Mexico,51,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,3,Rechazado fuerte
+40004638400,Yucatan,Mexico,51,Soltero,$50K - $90K,F,0,Universitario completo,9,Bronze,Gerente,Si,3,hasta $5K
+40132515400,Zacatecas,Mexico,40,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,4,Rechazado
+40160002700,Yucatan,Mexico,44,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Gerente,No,1,Rechazado
+40265998244,DF,Mexico,67,Soltero,$50K - $90K,F,0,Posgrado,1,Silver,Gerente,No,3,Rechazado
+39891256093,Guerrero,Mexico,54,Soltero,$10K - $50K,M,0,Universitario Incompleto,1,Bronze,Empleado Especializado,No,4,Rechazado fuerte
+40295947800,Zacatecas,Mexico,43,Soltero,$10K - $50K,F,0,Secundaria incompleta,8,Bronze,Empleado Especializado,Si,2,hasta $2K
+40571115612,DF,Mexico,42,Soltero,$110K - $150K,M,0,Posgrado,10,Bronze,Profesional Indep.,Si,1,hasta $10K
+40512262600,Veracruz,Mexico,49,Soltero,$10K - $50K,M,0,Universitario Incompleto,1,Bronze,Empleado Especializado,Si,3,Rechazado
+40882761478,DF,Mexico,44,Casado,$10K - $50K,F,0,Secundaria completa,8,Bronze,Empleado,Si,2,hasta $2K
+40941523313,Mexico,Mexico,61,Casado,$90K - $110K,F,0,Secundaria completa,9,Bronze,Gerente,Si,3,hasta $10K
+40888437032,Veracruz,Mexico,57,Casado,$10K - $50K,M,0,Secundaria completa,9,Bronze,Empleado,Si,2,hasta $2K
+41102498769,DF,Mexico,43,Casado,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado,No,0,Rechazado fuerte
+41269815000,Guerrero,Mexico,52,Casado,$50K - $90K,F,0,Universitario completo,1,Bronze,Gerente,No,1,Rechazado
+41258013200,DF,Mexico,39,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado,No,2,Rechazado fuerte
+41532784104,Veracruz,Mexico,47,Soltero,$50K - $90K,M,0,Universitario completo,10,Bronze,Gerente,Si,2,hasta $5K
+41558608412,DF,Mexico,43,Soltero,$150K +,M,0,Universitario Incompleto,1,Silver,Profesional Indep.,No,2,Rechazado
+41613261100,DF,Mexico,46,Soltero,$50K - $90K,M,0,Universitario completo,9,Normal,Gerente,Si,1,hasta $5K
+41503140330,DF,Mexico,42,Casado,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado,No,0,Rechazado fuerte
+41733370400,Mexico,Mexico,41,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,3,Rechazado fuerte
+41799846300,Zacatecas,Mexico,60,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+42125133872,DF,Mexico,48,Casado,$50K - $90K,F,0,Universitario completo,6,Bronze,Profesional Indep.,Si,2,hasta $5K
+41808660000,DF,Mexico,50,Soltero,$10K - $50K,F,0,Universitario Incompleto,1,Bronze,Gerente,No,2,Rechazado fuerte
+42277869582,Sinaloa,Mexico,48,Soltero,$10K - $50K,F,0,Secundaria completa,7,Bronze,Empleado Especializado,Si,3,hasta $2K
+42428926200,Mexico,Mexico,39,Soltero,$90K - $110K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+42407785058,Jalisco,Mexico,50,Soltero,$10K - $50K,M,0,Universitario Incompleto,7,Bronze,Administrativo,Si,4,hasta $2K
+42446897029,Guerrero,Mexico,52,Soltero,$10K - $50K,M,0,Secundaria incompleta,7,Normal,Empleado Especializado,Si,2,hasta $2K
+42466123100,Mexico,Mexico,60,Soltero,$10K - $50K,F,0,Secundaria incompleta,7,Normal,Empleado,Si,2,hasta $2K
+42713363800,Mexico,Mexico,44,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado Especializado,No,2,Rechazado fuerte
+42749112248,Mexico,Mexico,49,Soltero,$10K - $50K,M,0,Secundaria completa,7,Bronze,Empleado,Si,4,hasta $2K
+42823387980,DF,Mexico,52,Soltero,$50K - $90K,M,0,Universitario completo,9,Bronze,Gerente,Si,1,hasta $5K
+42762684226,Yucatan,Mexico,62,Soltero,$10K - $50K,M,0,Secundaria completa,6,Bronze,Empleado Especializado,Si,2,hasta $2K
+42840881347,Zacatecas,Mexico,43,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado,No,2,Rechazado fuerte
+42939388200,DF,Mexico,61,Soltero,$50K - $90K,F,0,Secundaria completa,6,Bronze,Empleado Especializado,Si,1,hasta $5K
+42902330756,DF,Mexico,49,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+42985575795,DF,Mexico,64,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado,No,2,Rechazado
+43156303763,DF,Mexico,50,Casado,$50K - $90K,F,0,Posgrado,7,Golden,Gerente,Si,3,hasta $10K
+43341097200,Veracruz,Mexico,57,Soltero,$50K - $90K,F,0,Universitario completo,8,Bronze,Gerente,Si,1,hasta $5K
+43143096566,Yucatan,Mexico,63,Soltero,$10K - $50K,F,0,Secundaria completa,7,Bronze,Empleado,Si,2,hasta $2K
+43396779894,DF,Mexico,45,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Bronze,Empleado Especializado,Si,2,Rechazado
+43558806777,Jalisco,Mexico,52,Soltero,$50K - $90K,F,0,Universitario completo,8,Silver,Gerente,Si,3,hasta $10K
+43580543398,Jalisco,Mexico,40,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,1,Rechazado
+43437774777,DF,Mexico,45,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado,No,1,Rechazado
+43617616900,Guerrero,Mexico,52,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,4,Rechazado fuerte
+43787025213,Sinaloa,Mexico,60,Soltero,$110K - $150K,F,0,Secundaria incompleta,7,Bronze,Profesional Indep.,Si,2,hasta $10K
+43732474446,Mexico,Mexico,103,Soltero,$10K - $50K,F,0,Secundaria incompleta,8,Normal,Empleado,Si,1,hasta $2K
+43890054225,Guerrero,Mexico,55,Soltero,$10K - $50K,F,0,Secundaria completa,8,Bronze,Empleado Especializado,Si,3,hasta $2K
+44023805300,DF,Mexico,41,Soltero,$110K - $150K,M,0,Universitario completo,8,Bronze,Profesional Indep.,Si,3,hasta $10K
+43977499604,Sinaloa,Mexico,54,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,1,Rechazado fuerte
+44242780804,Guerrero,Mexico,38,Soltero,$110K - $150K,F,0,Secundaria completa,9,Bronze,Profesional Indep.,Si,2,hasta $10K
+44260692596,Zacatecas,Mexico,57,Soltero,$110K - $150K,F,0,Secundaria completa,7,Bronze,Profesional Indep.,Si,4,hasta $10K
+44148254394,Yucatan,Mexico,48,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado Especializado,No,3,Rechazado fuerte
+44430294000,Jalisco,Mexico,51,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Silver,Empleado,No,1,Rechazado
+44988005757,Zacatecas,Mexico,52,Soltero,$110K - $150K,F,0,Secundaria incompleta,10,Bronze,Gerente,Si,1,hasta $10K
+44908188600,DF,Mexico,49,Soltero,$10K - $50K,F,0,Secundaria incompleta,8,Bronze,Empleado,Si,1,hasta $2K
+45093132300,Jalisco,Mexico,55,Soltero,$10K - $50K,M,0,Universitario Incompleto,9,Normal,Profesional Indep.,Si,1,hasta $2K
+45125136375,Zacatecas,Mexico,65,Soltero,$10K - $50K,M,0,Universitario Incompleto,7,Bronze,Administrativo,Si,3,hasta $2K
+45496386289,Mexico,Mexico,48,Soltero,$10K - $50K,F,0,Secundaria completa,9,Bronze,Empleado,Si,4,hasta $2K
+45704799294,Guerrero,Mexico,61,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+45520236500,Jalisco,Mexico,52,Soltero,$10K - $50K,M,0,Universitario Incompleto,9,Bronze,Administrativo,Si,2,hasta $2K
+45846736431,Yucatan,Mexico,55,Casado,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,2,Rechazado fuerte
+45858902900,Guerrero,Mexico,103,Casado,$10K - $50K,M,0,Secundaria completa,8,Bronze,Empleado,Si,1,hasta $2K
+46061608195,Yucatan,Mexico,48,Soltero,$50K - $90K,F,0,Posgrado,1,Bronze,Profesional Indep.,No,1,Rechazado
+46029802600,DF,Mexico,52,Soltero,$10K - $50K,M,0,Secundaria incompleta,9,Normal,Empleado,Si,1,hasta $2K
+46225952500,Oaxaca,Mexico,60,Soltero,$10K - $50K,M,0,Secundaria completa,9,Bronze,Empleado,Si,1,hasta $2K
+46609433300,Guerrero,Mexico,50,Casado,$10K - $50K,M,0,Secundaria incompleta,9,Normal,Empleado Especializado,Si,1,hasta $2K
+46733877100,Jalisco,Mexico,49,Soltero,$10K - $50K,M,0,Secundaria incompleta,10,Normal,Empleado,Si,1,hasta $2K
+47005692124,Veracruz,Mexico,66,Casado,$50K - $90K,M,0,Universitario completo,8,Bronze,Profesional Indep.,Si,3,hasta $5K
+47089870600,Mexico,Mexico,42,Soltero,$110K - $150K,M,0,Universitario Incompleto,10,Bronze,Profesional Indep.,Si,3,hasta $10K
+47278698100,Jalisco,Mexico,52,Soltero,$50K - $90K,F,0,Universitario completo,8,Bronze,Profesional Indep.,Si,3,hasta $5K
+47379087800,DF,Mexico,62,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Gerente,No,3,Rechazado
+46923004984,Veracruz,Mexico,57,Soltero,$10K - $50K,F,0,Secundaria incompleta,8,Normal,Empleado Especializado,Si,0,hasta $2K
+47516223788,Guerrero,Mexico,67,Casado,$50K - $90K,M,0,Universitario Incompleto,8,Bronze,Profesional Indep.,Si,3,hasta $5K
+47541817426,Yucatan,Mexico,59,Soltero,$110K - $150K,M,0,Universitario completo,1,Golden,Profesional Indep.,No,3,Rechazado
+47474697800,DF,Mexico,49,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado Especializado,No,2,Rechazado fuerte
+47551333900,Yucatan,Mexico,48,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado Especializado,No,3,Rechazado
+47642609500,Oaxaca,Mexico,47,Soltero,$50K - $90K,M,0,Universitario completo,1,Golden,Gerente,No,2,Rechazado
+47647689600,Guerrero,Mexico,54,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,4,Rechazado
+47579926252,Veracruz,Mexico,63,Soltero,$10K - $50K,F,0,Secundaria incompleta,10,Normal,Empleado Especializado,Si,0,hasta $2K
+48155152797,Zacatecas,Mexico,39,Casado,$10K - $50K,M,0,Secundaria completa,9,Bronze,Empleado,Si,3,hasta $2K
+48203931450,DF,Mexico,54,Casado,$50K - $90K,F,0,Secundaria completa,1,Bronze,Empleado,No,4,Rechazado
+48255553200,Zacatecas,Mexico,37,Soltero,$50K - $90K,M,0,Universitario Incompleto,9,Golden,Administrativo,Si,4,hasta $10K
+48191142678,Oaxaca,Mexico,47,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado Especializado,No,3,Rechazado fuerte
+48613789100,Zacatecas,Mexico,58,Casado,$10K - $50K,F,0,Secundaria completa,10,Bronze,Empleado Especializado,Si,4,hasta $2K
+48857891600,Guerrero,Mexico,56,Soltero,$50K - $90K,M,0,Secundaria completa,9,Bronze,Empleado,Si,3,hasta $5K
+48860096335,Oaxaca,Mexico,61,Soltero,$50K - $90K,M,0,Secundaria completa,9,Bronze,Gerente,Si,2,hasta $5K
+49189385800,DF,Mexico,58,Soltero,$90K - $110K,M,0,Secundaria completa,9,Bronze,Profesional Indep.,Si,3,hasta $10K
+48684164881,Veracruz,Mexico,57,Soltero,$10K - $50K,M,0,Universitario Incompleto,9,Normal,Administrativo,Si,1,hasta $2K
+49459033600,Zacatecas,Mexico,64,Soltero,$110K - $150K,F,0,Secundaria completa,6,Bronze,Gerente,Si,3,hasta $10K
+49484375119,Sinaloa,Mexico,37,Soltero,$90K - $110K,F,0,Secundaria completa,9,Bronze,Gerente,Si,3,hasta $10K
+49825214147,Zacatecas,Mexico,52,Soltero,$50K - $90K,M,0,Posgrado,10,Bronze,Profesional Indep.,Si,3,hasta $5K
+50066452000,Sinaloa,Mexico,39,Soltero,$110K - $150K,F,0,Secundaria completa,9,Bronze,Profesional Indep.,Si,4,hasta $10K
+49313496947,Zacatecas,Mexico,47,Soltero,$10K - $50K,M,0,Secundaria completa,1,Silver,Empleado,Si,2,Rechazado
+50106336500,Sinaloa,Mexico,52,Soltero,$10K - $50K,M,0,Posgrado,1,Normal,Profesional Indep.,No,0,Rechazado
+50326835500,Sinaloa,Mexico,47,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+50480558300,DF,Mexico,41,Casado,$150K +,F,0,Universitario completo,1,Golden,Profesional Indep.,No,2,Rechazado
+50507149700,Yucatan,Mexico,39,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,4,Rechazado
+50204038600,Guerrero,Mexico,38,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,0,Rechazado
+50753043900,Sinaloa,Mexico,59,Casado,$50K - $90K,F,0,Universitario completo,8,Silver,Profesional Indep.,Si,4,hasta $10K
+50563170300,Yucatan,Mexico,60,Casado,$10K - $50K,M,0,Secundaria incompleta,8,Normal,Empleado,Si,1,hasta $2K
+50939779300,Yucatan,Mexico,38,Soltero,$10K - $50K,M,0,Secundaria incompleta,9,Normal,Empleado,Si,0,hasta $2K
+50948963165,DF,Mexico,66,Soltero,$10K - $50K,M,0,Secundaria incompleta,9,Normal,Empleado,Si,2,hasta $2K
+51165358400,Yucatan,Mexico,44,Soltero,$10K - $50K,M,0,Secundaria incompleta,8,Normal,Empleado,Si,1,hasta $2K
+51650907993,Oaxaca,Mexico,35,Casado,$50K - $90K,F,0,Universitario completo,9,Bronze,Gerente,Si,2,hasta $5K
+51538963317,Jalisco,Mexico,61,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado,No,3,Rechazado fuerte
+51684977412,Zacatecas,Mexico,41,Soltero,$90K - $110K,F,0,Secundaria completa,10,Bronze,Profesional Indep.,Si,3,hasta $10K
+51833394765,Mexico,Mexico,54,Soltero,$50K - $90K,M,0,Universitario completo,9,Bronze,Profesional Indep.,Si,2,hasta $5K
+51678958500,DF,Mexico,50,Casado,$10K - $50K,M,0,Secundaria completa,7,Bronze,Empleado Especializado,Si,4,hasta $2K
+51931413412,Guerrero,Mexico,64,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+51871187090,Jalisco,Mexico,50,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,0,Rechazado fuerte
+51988115310,Yucatan,Mexico,50,Casado,$10K - $50K,M,0,Secundaria completa,6,Bronze,Empleado Especializado,Si,1,hasta $2K
+52400778532,Guerrero,Mexico,42,Soltero,$10K - $50K,F,0,Universitario Incompleto,8,Golden,Administrativo,Si,2,hasta $5K
+52425449490,DF,Mexico,51,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado Especializado,No,2,Rechazado
+52677952647,Jalisco,Mexico,35,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Bronze,Empleado Especializado,No,1,Rechazado
+52684647400,Yucatan,Mexico,46,Soltero,$50K - $90K,M,0,Secundaria incompleta,7,Bronze,Profesional Indep.,Si,3,hasta $5K
+53065290500,Yucatan,Mexico,40,Soltero,$150K +,M,0,Secundaria incompleta,9,Silver,Profesional Indep.,Si,2,hasta $10K
+52679712176,Sinaloa,Mexico,50,Casado,$10K - $50K,M,0,Secundaria completa,1,Normal,Empleado,No,0,Rechazado
+53315894603,Mexico,Mexico,59,Soltero,$50K - $90K,F,0,Universitario completo,1,Silver,Profesional Indep.,No,2,Rechazado
+53097804188,DF,Mexico,57,Casado,$10K - $50K,M,0,Secundaria incompleta,9,Silver,Empleado Especializado,Si,1,hasta $5K
+53624005300,DF,Mexico,51,Casado,$110K - $150K,M,0,Posgrado,7,Bronze,Profesional Indep.,Si,2,hasta $10K
+53874979600,DF,Mexico,47,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+53883943600,Mexico,Mexico,59,Casado,$90K - $110K,M,0,Universitario completo,10,Bronze,Profesional Indep.,Si,1,hasta $10K
+53935930100,DF,Mexico,52,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,Si,3,Rechazado
+54154251217,Veracruz,Mexico,57,Soltero,$90K - $110K,F,0,Secundaria completa,8,Bronze,Gerente,Si,3,hasta $10K
+53414412100,DF,Mexico,52,Soltero,$10K - $50K,F,0,Universitario completo,1,Normal,Profesional Indep.,No,1,Rechazado
+54593945741,Oaxaca,Mexico,63,Casado,$50K - $90K,M,0,Universitario completo,9,Bronze,Profesional Indep.,Si,1,hasta $5K
+54625778198,Zacatecas,Mexico,66,Soltero,$50K - $90K,M,0,Universitario Incompleto,1,Bronze,Gerente,No,1,Rechazado
+54792810082,DF,Mexico,50,Soltero,$50K - $90K,F,0,Universitario completo,10,Bronze,Profesional Indep.,Si,4,hasta $5K
+55021243100,Zacatecas,Mexico,42,Soltero,$110K - $150K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,1,Rechazado
+54392613800,DF,Mexico,63,Soltero,$10K - $50K,F,0,Secundaria completa,1,Silver,Empleado,No,4,Rechazado fuerte
+55127608800,Mexico,Mexico,62,Soltero,$50K - $90K,M,0,Universitario completo,7,Bronze,Profesional Indep.,Si,3,hasta $5K
+55188913345,DF,Mexico,67,Casado,$50K - $90K,F,0,Secundaria incompleta,1,Normal,Empleado,No,2,Rechazado
+55235422849,Zacatecas,Mexico,65,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Gerente,No,3,Rechazado
+55072484000,Mexico,Mexico,54,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Bronze,Empleado Especializado,No,1,Rechazado fuerte
+55319005846,Sinaloa,Mexico,49,Casado,$50K - $90K,M,0,Universitario completo,9,Bronze,Profesional Indep.,Si,2,hasta $5K
+55270125300,Guerrero,Mexico,43,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,3,Rechazado
+55353933600,DF,Mexico,60,Soltero,$10K - $50K,F,0,Universitario Incompleto,1,Bronze,Empleado Especializado,No,4,Rechazado fuerte
+55447451500,DF,Mexico,56,Soltero,$90K - $110K,M,0,Secundaria completa,8,Normal,Profesional Indep.,Si,3,hasta $10K
+55447708964,DF,Mexico,48,Soltero,$50K - $90K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,3,Rechazado
+55533405542,Jalisco,Mexico,65,Soltero,$50K - $90K,F,0,Universitario completo,9,Bronze,Profesional Indep.,Si,2,hasta $5K
+55442371400,Jalisco,Mexico,66,Soltero,$10K - $50K,F,0,Secundaria completa,9,Silver,Empleado,Si,2,hasta $5K
+55694096684,Zacatecas,Mexico,58,Soltero,$10K - $50K,M,0,Universitario Incompleto,1,Bronze,Gerente,No,2,Rechazado fuerte
+55905181200,Mexico,Mexico,61,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,2,Rechazado
+55920083522,Guerrero,Mexico,44,Soltero,$10K - $50K,M,0,Secundaria incompleta,7,Normal,Empleado Especializado,Si,1,hasta $2K
+55935892462,Zacatecas,Mexico,59,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Bronze,Empleado,No,1,Rechazado
+56452990200,Mexico,Mexico,55,Soltero,$50K - $90K,F,0,Posgrado,1,Bronze,Gerente,No,1,Rechazado
+56541428000,Oaxaca,Mexico,46,Soltero,$110K - $150K,F,0,Secundaria incompleta,1,Bronze,Gerente,No,2,Rechazado
+56653673052,Guerrero,Mexico,54,Soltero,$110K - $150K,F,0,Secundaria completa,8,Bronze,Profesional Indep.,Si,1,hasta $10K
+56318069696,DF,Mexico,62,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado,No,3,Rechazado fuerte
+56754373908,DF,Mexico,46,Soltero,$50K - $90K,F,0,Universitario completo,1,Silver,Gerente,No,3,Rechazado
+56813167900,Zacatecas,Mexico,45,Soltero,$50K - $90K,F,0,Posgrado,1,Silver,Profesional Indep.,No,4,Rechazado
+56963232159,Jalisco,Mexico,44,Soltero,$110K - $150K,M,0,Posgrado,10,Bronze,Profesional Indep.,Si,3,hasta $10K
+56982619166,DF,Mexico,59,Soltero,$50K - $90K,F,0,Secundaria completa,1,Bronze,Gerente,No,1,Rechazado
+56998749971,Veracruz,Mexico,67,Casado,$110K - $150K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+57031816244,Zacatecas,Mexico,67,Casado,$110K - $150K,M,0,Secundaria incompleta,8,Bronze,Gerente,Si,3,hasta $10K
+57107095122,Veracruz,Mexico,62,Soltero,$50K - $90K,M,0,Universitario completo,9,Bronze,Gerente,Si,2,hasta $5K
+56722616553,Zacatecas,Mexico,57,Soltero,$10K - $50K,M,0,Secundaria completa,9,Bronze,Empleado Especializado,Si,1,hasta $2K
+57246248100,Jalisco,Mexico,39,Soltero,$10K - $50K,M,0,Universitario completo,1,Normal,Profesional Indep.,No,1,Rechazado
+57309086918,Mexico,Mexico,59,Casado,$10K - $50K,M,0,Secundaria incompleta,10,Normal,Empleado Especializado,Si,1,hasta $2K
+57467643000,Guerrero,Mexico,62,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,Si,0,Rechazado
+57592065334,Guerrero,Mexico,62,Soltero,$110K - $150K,M,0,Universitario completo,10,Bronze,Profesional Indep.,Si,2,hasta $10K
+57525455400,Yucatan,Mexico,44,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Bronze,Empleado Especializado,Si,3,Rechazado
+57661378979,Zacatecas,Mexico,51,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado Especializado,No,1,Rechazado fuerte
+57866337299,Zacatecas,Mexico,49,Soltero,$10K - $50K,M,0,Secundaria completa,8,Bronze,Empleado Especializado,Si,3,hasta $2K
+58197922706,DF,Mexico,46,Casado,$110K - $150K,M,0,Universitario Incompleto,6,Bronze,Profesional Indep.,Si,2,hasta $10K
+58247994184,Yucatan,Mexico,66,Soltero,$50K - $90K,F,0,Universitario completo,10,Bronze,Profesional Indep.,Si,2,hasta $5K
+58330590128,Veracruz,Mexico,67,Casado,$110K - $150K,M,0,Secundaria completa,1,Bronze,Profesional Indep.,No,1,Rechazado
+58391170501,Zacatecas,Mexico,57,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+58434692025,DF,Mexico,41,Soltero,$50K - $90K,F,0,Posgrado,1,Bronze,Profesional Indep.,No,2,Rechazado
+58447523713,Zacatecas,Mexico,52,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,4,Rechazado
+57909537000,Sinaloa,Mexico,40,Casado,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+58818301558,Veracruz,Mexico,61,Soltero,$110K - $150K,M,0,Secundaria completa,8,Bronze,Profesional Indep.,Si,4,hasta $10K
+58641393800,DF,Mexico,55,Soltero,$10K - $50K,F,0,Secundaria completa,9,Silver,Empleado Especializado,Si,4,hasta $5K
+59040227532,DF,Mexico,39,Soltero,$50K - $90K,F,0,Universitario completo,1,Normal,Profesional Indep.,No,3,Rechazado
+58958827853,Oaxaca,Mexico,42,Casado,$10K - $50K,M,0,Secundaria completa,6,Bronze,Empleado Especializado,Si,2,hasta $2K
+59242884516,DF,Mexico,50,Soltero,$50K - $90K,M,0,Secundaria incompleta,9,Bronze,Gerente,Si,2,hasta $5K
+59404922100,DF,Mexico,61,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+59225954400,Guerrero,Mexico,56,Soltero,$10K - $50K,F,0,Secundaria incompleta,8,Bronze,Empleado,Si,2,hasta $2K
+59685894250,DF,Mexico,37,Soltero,$50K - $90K,F,0,Secundaria completa,8,Bronze,Profesional Indep.,Si,3,hasta $5K
+59642898400,Zacatecas,Mexico,55,Casado,$10K - $50K,M,0,Secundaria incompleta,8,Normal,Empleado Especializado,Si,0,hasta $2K
+59795837998,Mexico,Mexico,50,Casado,$10K - $50K,M,0,Universitario Incompleto,7,Bronze,Empleado,Si,2,hasta $2K
+60396942496,Oaxaca,Mexico,63,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,0,Rechazado
+60740163300,Sinaloa,Mexico,56,Soltero,$90K - $110K,M,0,Posgrado,1,Silver,Profesional Indep.,No,3,Rechazado
+60531487464,Sinaloa,Mexico,67,Soltero,$10K - $50K,F,0,Secundaria completa,8,Bronze,Empleado,Si,4,hasta $2K
+60813661200,DF,Mexico,48,Soltero,$110K - $150K,M,0,Posgrado,9,Bronze,Profesional Indep.,Si,4,hasta $10K
+60757790800,Zacatecas,Mexico,66,Soltero,$10K - $50K,F,0,Secundaria incompleta,7,Normal,Empleado,Si,1,hasta $2K
+60934011936,DF,Mexico,40,Soltero,$10K - $50K,M,0,Secundaria incompleta,9,Normal,Empleado Especializado,Si,0,hasta $2K
+61055076100,DF,Mexico,49,Casado,$10K - $50K,F,0,Secundaria completa,10,Bronze,Empleado Especializado,Si,1,hasta $2K
+61095261000,Zacatecas,Mexico,49,Soltero,$50K - $90K,F,0,Universitario completo,10,Silver,Profesional Indep.,Si,2,hasta $10K
+61081367100,DF,Mexico,67,Soltero,$10K - $50K,M,0,Secundaria incompleta,7,Normal,Empleado Especializado,Si,0,hasta $2K
+61145697236,Oaxaca,Mexico,52,Soltero,$10K - $50K,M,0,Universitario completo,1,Bronze,Gerente,No,2,Rechazado fuerte
+61306570768,Mexico,Mexico,58,Soltero,$90K - $110K,F,0,Universitario completo,6,Bronze,Profesional Indep.,Si,3,hasta $10K
+61197528243,DF,Mexico,52,Casado,$10K - $50K,M,0,Secundaria completa,10,Bronze,Empleado Especializado,Si,3,hasta $2K
+61358932900,DF,Mexico,58,Soltero,$10K - $50K,F,0,Secundaria incompleta,7,Normal,Empleado Especializado,Si,1,hasta $2K
+61419894099,DF,Mexico,53,Soltero,$10K - $50K,F,0,Universitario Incompleto,7,Bronze,Profesional Indep.,Si,4,hasta $2K
+61546864500,Jalisco,Mexico,46,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,Si,4,Rechazado
+61515117883,DF,Mexico,51,Casado,$10K - $50K,M,0,Secundaria incompleta,9,Normal,Empleado Especializado,Si,1,hasta $2K
+61568284630,Veracruz,Mexico,47,Casado,$10K - $50K,M,0,Secundaria incompleta,6,Normal,Empleado Especializado,Si,0,hasta $2K
+61669039130,Yucatan,Mexico,43,Casado,$50K - $90K,M,0,Universitario completo,7,Bronze,Profesional Indep.,Si,2,hasta $5K
+61595305204,DF,Mexico,43,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Bronze,Empleado,No,1,Rechazado fuerte
+62006412744,Zacatecas,Mexico,41,Casado,$50K - $90K,M,0,Universitario completo,1,Golden,Profesional Indep.,No,2,Rechazado
+62103326320,Oaxaca,Mexico,65,Soltero,$110K - $150K,M,0,Secundaria incompleta,7,Bronze,Profesional Indep.,Si,3,hasta $10K
+61905100300,Sinaloa,Mexico,40,Soltero,$10K - $50K,F,0,Secundaria completa,9,Bronze,Empleado Especializado,Si,1,hasta $2K
+62212229371,DF,Mexico,35,Soltero,$50K - $90K,M,0,Universitario completo,10,Silver,Profesional Indep.,Si,3,hasta $10K
+62138297000,Mexico,Mexico,66,Casado,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado fuerte
+62341163158,Zacatecas,Mexico,52,Soltero,$50K - $90K,M,0,Universitario completo,9,Bronze,Profesional Indep.,Si,2,hasta $5K
+62343110400,Sinaloa,Mexico,36,Soltero,$90K - $110K,F,0,Posgrado,10,Silver,Profesional Indep.,Si,2,hasta $10K
+62598821520,Yucatan,Mexico,61,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+62303370800,Zacatecas,Mexico,60,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,3,Rechazado
+62800469994,Zacatecas,Mexico,45,Soltero,$10K - $50K,M,0,Universitario Incompleto,8,Bronze,Administrativo,Si,3,hasta $2K
+63502752780,Veracruz,Mexico,60,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,1,Rechazado
+63148604631,DF,Mexico,63,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Bronze,Empleado,No,1,Rechazado fuerte
+63644174933,DF,Mexico,49,Soltero,$10K - $50K,M,0,Universitario Incompleto,6,Bronze,Empleado Especializado,Si,1,hasta $2K
+63695496320,DF,Mexico,36,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Bronze,Empleado Especializado,No,2,Rechazado fuerte
+63723187446,Zacatecas,Mexico,60,Casado,$90K - $110K,F,0,Secundaria incompleta,9,Bronze,Profesional Indep.,Si,4,hasta $10K
+63910201800,Zacatecas,Mexico,47,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Gerente,No,1,Rechazado
+63718386300,Jalisco,Mexico,53,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado,No,0,Rechazado fuerte
+63912310004,DF,Mexico,52,Soltero,$10K - $50K,F,0,Secundaria completa,7,Bronze,Empleado Especializado,Si,4,hasta $2K
+63941674828,Guerrero,Mexico,54,Casado,$10K - $50K,M,0,Secundaria completa,9,Bronze,Empleado,Si,4,hasta $2K
+64089319700,Veracruz,Mexico,55,Casado,$110K - $150K,M,0,Universitario completo,10,Bronze,Profesional Indep.,Si,2,hasta $10K
+64075163006,Jalisco,Mexico,40,Casado,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado,No,4,Rechazado
+64581006169,Zacatecas,Mexico,66,Soltero,$50K - $90K,F,0,Universitario completo,10,Bronze,Profesional Indep.,Si,2,hasta $5K
+64843814373,DF,Mexico,56,Soltero,$50K - $90K,M,0,Universitario completo,8,Bronze,Profesional Indep.,Si,4,hasta $5K
+64248868200,DF,Mexico,54,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+64919243454,Zacatecas,Mexico,54,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,0,Rechazado
+64977737100,Veracruz,Mexico,51,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,3,Rechazado
+65305004119,Guerrero,Mexico,60,Soltero,$50K - $90K,M,0,Universitario completo,8,Bronze,Profesional Indep.,Si,1,hasta $5K
+65411686301,Zacatecas,Mexico,45,Soltero,$110K - $150K,M,0,Secundaria completa,9,Bronze,Profesional Indep.,Si,1,hasta $10K
+65058707600,Oaxaca,Mexico,47,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado,No,2,Rechazado
+65435316600,Guerrero,Mexico,60,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,0,Rechazado fuerte
+65769750475,Veracruz,Mexico,56,Soltero,$110K - $150K,M,0,Secundaria completa,1,Normal,Profesional Indep.,No,3,Rechazado
+65663266777,DF,Mexico,49,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,1,Rechazado
+65935028195,DF,Mexico,35,Soltero,$50K - $90K,M,0,Universitario completo,8,Bronze,Profesional Indep.,Si,3,hasta $5K
+66031695008,Mexico,Mexico,43,Casado,$110K - $150K,M,0,Universitario completo,9,Bronze,Profesional Indep.,Si,2,hasta $10K
+65861583948,Guerrero,Mexico,42,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+66120304465,Veracruz,Mexico,42,Soltero,$10K - $50K,M,0,Secundaria incompleta,7,Bronze,Empleado Especializado,Si,3,hasta $2K
+66379362940,Veracruz,Mexico,37,Soltero,$50K - $90K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,4,Rechazado
+66121162800,Yucatan,Mexico,52,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,0,Rechazado
+66539683938,Yucatan,Mexico,65,Soltero,$50K - $90K,M,0,Secundaria completa,7,Bronze,Empleado Especializado,Si,3,hasta $5K
+66499922871,DF,Mexico,60,Soltero,$10K - $50K,F,0,Secundaria incompleta,9,Normal,Empleado,Si,1,hasta $2K
+66908836364,Zacatecas,Mexico,41,Soltero,$50K - $90K,F,0,Posgrado,8,Bronze,Profesional Indep.,Si,1,hasta $5K
+66605017185,Guerrero,Mexico,66,Soltero,$10K - $50K,M,0,Secundaria incompleta,7,Normal,Empleado,Si,1,hasta $2K
+66938442587,DF,Mexico,67,Soltero,$10K - $50K,F,0,Universitario completo,1,Silver,Profesional Indep.,No,2,Rechazado fuerte
+67238077521,Guerrero,Mexico,43,Soltero,$50K - $90K,M,0,Universitario completo,6,Bronze,Profesional Indep.,Si,2,hasta $5K
+67061126828,Sinaloa,Mexico,35,Soltero,$10K - $50K,F,0,Secundaria completa,8,Bronze,Empleado Especializado,Si,1,hasta $2K
+67381302118,Jalisco,Mexico,44,Casado,$10K - $50K,F,0,Universitario Incompleto,8,Bronze,Administrativo,Si,1,hasta $2K
+67440986633,DF,Mexico,46,Soltero,$10K - $50K,M,0,Secundaria incompleta,7,Normal,Empleado Especializado,Si,2,hasta $2K
+67497602701,DF,Mexico,65,Soltero,$110K - $150K,F,0,Universitario completo,10,Bronze,Profesional Indep.,Si,2,hasta $10K
+67479980587,Yucatan,Mexico,45,Soltero,$10K - $50K,F,0,Secundaria incompleta,6,Golden,Empleado Especializado,Si,4,hasta $5K
+67601001858,Zacatecas,Mexico,59,Casado,$10K - $50K,F,0,Universitario completo,8,Bronze,Profesional Indep.,Si,2,hasta $2K
+67806721900,DF,Mexico,40,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado,No,2,Rechazado fuerte
+67909021377,Sinaloa,Mexico,58,Soltero,$10K - $50K,M,0,Secundaria completa,10,Bronze,Empleado,Si,2,hasta $2K
+68083091400,Zacatecas,Mexico,60,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+67945504800,Sinaloa,Mexico,52,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+68626185059,DF,Mexico,60,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+68798334598,DF,Mexico,52,Soltero,$50K - $90K,M,0,Secundaria completa,6,Bronze,Empleado,Si,3,hasta $5K
+68463895320,Mexico,Mexico,103,Soltero,$10K - $50K,M,0,Secundaria incompleta,9,Normal,Empleado Especializado,Si,1,hasta $2K
+68888767957,Jalisco,Mexico,60,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Bronze,Empleado Especializado,No,2,Rechazado fuerte
+68895022900,Zacatecas,Mexico,50,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,0,Rechazado fuerte
+69139125300,Zacatecas,Mexico,56,Casado,$110K - $150K,F,0,Secundaria completa,1,Normal,Profesional Indep.,No,1,Rechazado
+69021328091,DF,Mexico,61,Casado,$10K - $50K,F,0,Secundaria completa,8,Bronze,Empleado Especializado,Si,4,hasta $2K
+69208385348,Veracruz,Mexico,41,Soltero,$50K - $90K,F,0,Posgrado,1,Bronze,Profesional Indep.,No,3,Rechazado
+69189170000,DF,Mexico,62,Soltero,$10K - $50K,F,0,Universitario Incompleto,8,Bronze,Empleado,Si,4,hasta $2K
+69305245300,Guerrero,Mexico,65,Soltero,$10K - $50K,F,0,Universitario Incompleto,9,Bronze,Profesional Indep.,Si,4,hasta $2K
+69348332285,DF,Mexico,47,Soltero,$10K - $50K,M,0,Secundaria incompleta,10,Bronze,Empleado,Si,2,hasta $2K
+69422913789,Zacatecas,Mexico,52,Casado,$10K - $50K,F,0,Secundaria incompleta,7,Normal,Empleado Especializado,Si,2,hasta $2K
+69740267400,DF,Mexico,39,Soltero,$110K - $150K,F,0,Secundaria completa,8,Bronze,Profesional Indep.,Si,2,hasta $10K
+69452841900,DF,Mexico,48,Soltero,$10K - $50K,F,0,Universitario Incompleto,1,Bronze,Empleado,No,2,Rechazado fuerte
+69813518524,DF,Mexico,47,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,2,Rechazado
+69977498100,Jalisco,Mexico,46,Soltero,$10K - $50K,F,0,Secundaria completa,8,Bronze,Empleado Especializado,Si,2,hasta $2K
+70635996460,Oaxaca,Mexico,52,Soltero,$110K - $150K,M,0,Universitario completo,6,Bronze,Profesional Indep.,Si,1,hasta $10K
+70647245645,DF,Mexico,61,Soltero,$110K - $150K,F,0,Secundaria completa,9,Silver,Profesional Indep.,Si,4,hasta $10K
+69982197284,Jalisco,Mexico,59,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+70740420222,Zacatecas,Mexico,45,Soltero,$10K - $50K,M,0,Secundaria completa,8,Golden,Empleado,Si,2,hasta $5K
+70791060328,Zacatecas,Mexico,45,Soltero,$10K - $50K,F,0,Secundaria completa,8,Bronze,Empleado,Si,3,hasta $2K
+70857149958,Guerrero,Mexico,56,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+70804836153,DF,Mexico,66,Soltero,$10K - $50K,F,0,Secundaria completa,7,Normal,Empleado Especializado,Si,0,hasta $2K
+70952561500,DF,Mexico,54,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado,No,4,Rechazado fuerte
+71305717200,Veracruz,Mexico,51,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,Si,2,Rechazado
+71436753869,Sinaloa,Mexico,41,Soltero,$10K - $50K,F,0,Secundaria completa,7,Bronze,Empleado Especializado,Si,3,hasta $2K
+71982599500,Jalisco,Mexico,44,Soltero,$50K - $90K,M,0,Universitario completo,8,Bronze,Gerente,Si,2,hasta $5K
+71988575500,Oaxaca,Mexico,58,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Gerente,No,3,Rechazado
+72049037814,Mexico,Mexico,63,Soltero,$50K - $90K,M,0,Universitario completo,10,Bronze,Profesional Indep.,Si,3,hasta $5K
+72255149483,Zacatecas,Mexico,37,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Gerente,No,2,Rechazado
+72426027655,Jalisco,Mexico,47,Soltero,$150K +,M,0,Universitario completo,7,Silver,Gerente,Si,4,hasta $10K
+71906859300,DF,Mexico,65,Casado,$10K - $50K,F,0,Universitario Incompleto,1,Silver,Gerente,Si,3,Rechazado
+72629006500,Yucatan,Mexico,40,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+72563823461,DF,Mexico,51,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado,No,1,Rechazado fuerte
+72694141300,DF,Mexico,54,Soltero,$10K - $50K,F,0,Universitario Incompleto,1,Silver,Empleado Especializado,No,2,Rechazado fuerte
+72779591100,Oaxaca,Mexico,47,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,0,Rechazado fuerte
+72929118871,DF,Mexico,46,Soltero,$10K - $50K,M,0,Secundaria completa,10,Bronze,Empleado,Si,1,hasta $2K
+72970660900,Veracruz,Mexico,56,Soltero,$10K - $50K,M,0,Secundaria incompleta,7,Bronze,Empleado Especializado,Si,3,hasta $2K
+73070004600,DF,Mexico,41,Soltero,$10K - $50K,F,0,Secundaria completa,1,Golden,Empleado Especializado,No,1,Rechazado fuerte
+73215299844,Zacatecas,Mexico,54,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,2,Rechazado
+73282435500,Yucatan,Mexico,44,Casado,$10K - $50K,M,0,Secundaria incompleta,8,Normal,Empleado,Si,1,hasta $2K
+73319219350,DF,Mexico,38,Soltero,$10K - $50K,M,0,Secundaria incompleta,8,Normal,Empleado,Si,1,hasta $2K
+73516469001,Veracruz,Mexico,43,Soltero,$110K - $150K,M,0,Secundaria incompleta,7,Bronze,Profesional Indep.,Si,3,hasta $10K
+73435632586,Sinaloa,Mexico,48,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado,No,4,Rechazado fuerte
+73855183720,Zacatecas,Mexico,44,Soltero,$10K - $50K,F,0,Secundaria completa,7,Bronze,Empleado Especializado,Si,2,hasta $2K
+74496521400,Guerrero,Mexico,40,Soltero,$110K - $150K,M,0,Posgrado,1,Bronze,Gerente,No,2,Rechazado
+74231079220,Jalisco,Mexico,47,Casado,$10K - $50K,M,0,Secundaria incompleta,9,Normal,Empleado Especializado,Si,0,hasta $2K
+74708630442,DF,Mexico,58,Casado,$50K - $90K,F,0,Universitario Incompleto,7,Bronze,Profesional Indep.,Si,2,hasta $5K
+74970360398,DF,Mexico,56,Casado,$50K - $90K,M,0,Universitario completo,9,Bronze,Gerente,Si,3,hasta $5K
+74673847600,DF,Mexico,40,Casado,$10K - $50K,M,0,Secundaria completa,10,Bronze,Empleado,Si,1,hasta $2K
+74992644200,DF,Mexico,64,Casado,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado Especializado,No,3,Rechazado fuerte
+75073958039,Zacatecas,Mexico,61,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,0,Rechazado fuerte
+75185634493,DF,Mexico,54,Casado,$10K - $50K,F,0,Secundaria completa,9,Golden,Empleado Especializado,Si,4,hasta $5K
+75736452900,Zacatecas,Mexico,63,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Gerente,No,3,Rechazado
+75252335667,Zacatecas,Mexico,67,Soltero,$10K - $50K,M,0,Secundaria incompleta,7,Normal,Empleado Especializado,Si,2,hasta $2K
+76170278800,DF,Mexico,44,Soltero,$50K - $90K,M,0,Universitario completo,1,Golden,Profesional Indep.,No,4,Rechazado
+76074706315,Jalisco,Mexico,44,Soltero,$10K - $50K,M,0,Universitario Incompleto,1,Bronze,Empleado,No,3,Rechazado fuerte
+76298928260,Veracruz,Mexico,41,Casado,$50K - $90K,M,0,Universitario completo,9,Bronze,Profesional Indep.,Si,4,hasta $5K
+76196269392,Veracruz,Mexico,39,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado Especializado,No,2,Rechazado fuerte
+76525526600,Jalisco,Mexico,42,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,0,Rechazado fuerte
+76579755500,DF,Mexico,63,Casado,$10K - $50K,F,0,Secundaria incompleta,7,Normal,Empleado Especializado,Si,1,hasta $2K
+76714981794,Zacatecas,Mexico,59,Soltero,$10K - $50K,M,0,Secundaria incompleta,7,Normal,Empleado Especializado,Si,0,hasta $2K
+76740945600,DF,Mexico,40,Soltero,$10K - $50K,M,0,Universitario completo,7,Normal,Profesional Indep.,Si,2,hasta $2K
+77437161207,Mexico,Mexico,38,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+77452680468,Veracruz,Mexico,57,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,1,Rechazado
+76755429506,DF,Mexico,45,Soltero,$10K - $50K,M,0,Universitario Incompleto,8,Silver,Empleado Especializado,Si,2,hasta $5K
+77754230499,Jalisco,Mexico,35,Soltero,$10K - $50K,F,0,Secundaria incompleta,7,Normal,Empleado,Si,2,hasta $2K
+77971017400,DF,Mexico,35,Casado,$50K - $90K,F,0,Posgrado,1,Golden,Profesional Indep.,No,3,Rechazado
+77765109539,Veracruz,Mexico,47,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,0,Rechazado
+78224909901,Mexico,Mexico,52,Soltero,$10K - $50K,F,0,Secundaria completa,1,Silver,Empleado,No,2,Rechazado
+78278596997,Zacatecas,Mexico,46,Casado,$10K - $50K,M,0,Secundaria incompleta,7,Normal,Empleado Especializado,Si,1,hasta $2K
+78583896756,Sinaloa,Mexico,50,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+78516975641,DF,Mexico,50,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,2,Rechazado fuerte
+78608122467,DF,Mexico,39,Soltero,$10K - $50K,F,0,Secundaria incompleta,10,Normal,Empleado,Si,0,hasta $2K
+78766603469,Yucatan,Mexico,42,Soltero,$90K - $110K,F,0,Posgrado,9,Bronze,Profesional Indep.,Si,3,hasta $10K
+78712878823,Yucatan,Mexico,53,Soltero,$10K - $50K,M,0,Secundaria incompleta,10,Normal,Empleado,Si,2,hasta $2K
+79219789505,DF,Mexico,46,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+78836324810,Zacatecas,Mexico,42,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado,No,1,Rechazado
+79494935900,Jalisco,Mexico,52,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,0,Rechazado fuerte
+79585465788,Zacatecas,Mexico,49,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,2,Rechazado
+79985082700,Guerrero,Mexico,61,Soltero,$50K - $90K,M,0,Secundaria completa,1,Bronze,Profesional Indep.,No,1,Rechazado
+79957595500,Veracruz,Mexico,50,Casado,$10K - $50K,F,0,Secundaria incompleta,10,Normal,Empleado,Si,2,hasta $2K
+80113254785,Oaxaca,Mexico,45,Casado,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,0,Rechazado
+80242365598,Guerrero,Mexico,65,Soltero,$10K - $50K,F,0,Secundaria incompleta,9,Normal,Empleado,Si,1,hasta $2K
+80244425535,Guerrero,Mexico,38,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,2,Rechazado
+80282035470,Sinaloa,Mexico,46,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,2,Rechazado
+80441353321,DF,Mexico,62,Soltero,$50K - $90K,F,0,Secundaria incompleta,1,Bronze,Profesional Indep.,No,3,Rechazado
+80319564900,DF,Mexico,63,Casado,$10K - $50K,M,0,Secundaria completa,8,Bronze,Empleado,Si,1,hasta $2K
+80707230000,Guerrero,Mexico,64,Soltero,$90K - $110K,M,0,Secundaria incompleta,1,Bronze,Gerente,No,4,Rechazado
+80519298300,Yucatan,Mexico,40,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Bronze,Empleado,No,2,Rechazado fuerte
+80859557986,Oaxaca,Mexico,52,Soltero,$10K - $50K,M,0,Universitario Incompleto,1,Bronze,Empleado Especializado,No,3,Rechazado fuerte
+81219440698,Mexico,Mexico,49,Soltero,$150K +,M,0,Secundaria incompleta,8,Silver,Gerente,Si,1,hasta $10K
+81361726522,Guerrero,Mexico,48,Soltero,$50K - $90K,F,0,Universitario completo,7,Bronze,Profesional Indep.,Si,2,hasta $5K
+81110580600,DF,Mexico,64,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado,No,3,Rechazado fuerte
+81769255995,Mexico,Mexico,61,Soltero,$110K - $150K,M,0,Secundaria incompleta,9,Bronze,Profesional Indep.,Si,3,hasta $10K
+82097102403,Zacatecas,Mexico,39,Casado,$50K - $90K,F,0,Universitario completo,10,Bronze,Gerente,Si,2,hasta $5K
+81480618100,Sinaloa,Mexico,67,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado,No,4,Rechazado fuerte
+82143907000,DF,Mexico,60,Casado,$150K +,M,0,Universitario completo,8,Bronze,Profesional Indep.,Si,4,hasta $10K
+82155708700,DF,Mexico,41,Soltero,$90K - $110K,M,0,Secundaria completa,8,Bronze,Profesional Indep.,Si,3,hasta $10K
+82262932658,Yucatan,Mexico,62,Casado,$110K - $150K,F,0,Universitario Incompleto,9,Silver,Profesional Indep.,Si,2,hasta $10K
+82347524200,DF,Mexico,40,Soltero,$50K - $90K,F,0,Universitario completo,7,Bronze,Profesional Indep.,Si,2,hasta $5K
+82481597065,DF,Mexico,47,Soltero,$90K - $110K,M,0,Universitario completo,9,Bronze,Profesional Indep.,Si,1,hasta $10K
+82114815711,DF,Mexico,35,Soltero,$10K - $50K,M,0,Secundaria completa,8,Bronze,Empleado Especializado,Si,3,hasta $2K
+82629869600,Zacatecas,Mexico,62,Casado,$50K - $90K,M,0,Universitario completo,7,Bronze,Profesional Indep.,Si,3,hasta $5K
+82641279697,Zacatecas,Mexico,60,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Gerente,Si,2,Rechazado
+82678020596,DF,Mexico,60,Soltero,$110K - $150K,M,0,Universitario Incompleto,9,Bronze,Profesional Indep.,Si,3,hasta $10K
+82528600096,Zacatecas,Mexico,67,Soltero,$10K - $50K,F,0,Secundaria completa,1,Golden,Empleado,No,1,Rechazado fuerte
+82736514210,DF,Mexico,39,Casado,$10K - $50K,F,0,Secundaria completa,1,Golden,Empleado,Si,3,Rechazado
+82949004173,Jalisco,Mexico,60,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,Si,3,Rechazado
+82790507078,DF,Mexico,52,Soltero,$10K - $50K,M,0,Secundaria completa,10,Bronze,Empleado,Si,4,hasta $2K
+82970671057,DF,Mexico,61,Soltero,$110K - $150K,M,0,Universitario completo,7,Bronze,Gerente,Si,2,hasta $10K
+83018838167,DF,Mexico,52,Soltero,$110K - $150K,M,0,Universitario completo,1,Bronze,Gerente,No,2,Rechazado
+83208100199,Zacatecas,Mexico,57,Casado,$50K - $90K,F,0,Universitario completo,1,Bronze,Gerente,No,3,Rechazado
+83488112092,Zacatecas,Mexico,104,Soltero,$50K - $90K,M,0,Universitario completo,1,Silver,Profesional Indep.,No,3,Rechazado
+82968680858,Oaxaca,Mexico,37,Casado,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,Si,1,Rechazado
+83856309652,Mexico,Mexico,67,Soltero,$90K - $110K,M,0,Secundaria incompleta,1,Bronze,Profesional Indep.,No,3,Rechazado
+83973913788,Sinaloa,Mexico,52,Casado,$50K - $90K,M,0,Universitario completo,7,Silver,Gerente,Si,3,hasta $10K
+83753414750,Jalisco,Mexico,35,Soltero,$10K - $50K,M,0,Secundaria incompleta,7,Bronze,Empleado,Si,3,hasta $2K
+84106731400,Sinaloa,Mexico,66,Soltero,$50K - $90K,F,0,Universitario Incompleto,1,Normal,Profesional Indep.,No,1,Rechazado
+84027729630,Mexico,Mexico,103,Casado,$10K - $50K,M,0,Secundaria completa,8,Silver,Empleado Especializado,Si,2,hasta $5K
+84418500661,Guerrero,Mexico,58,Soltero,$50K - $90K,M,0,Universitario completo,9,Bronze,Profesional Indep.,Si,2,hasta $5K
+84489675760,Yucatan,Mexico,43,Soltero,$110K - $150K,F,0,Posgrado,7,Golden,Profesional Indep.,Si,3,hasta $10K
+84344294667,DF,Mexico,52,Soltero,$10K - $50K,F,0,Secundaria completa,10,Bronze,Empleado Especializado,Si,4,hasta $2K
+84521502852,DF,Mexico,62,Soltero,$10K - $50K,M,0,Universitario Incompleto,1,Bronze,Administrativo,No,2,Rechazado fuerte
+84548625300,Mexico,Mexico,51,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Bronze,Empleado Especializado,No,1,Rechazado fuerte
+84553405046,Yucatan,Mexico,53,Casado,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,1,Rechazado fuerte
+84589459300,Yucatan,Mexico,58,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado,No,0,Rechazado fuerte
+85443614125,Veracruz,Mexico,56,Soltero,$90K - $110K,F,0,Universitario completo,8,Bronze,Gerente,Si,4,hasta $10K
+85596441000,Sinaloa,Mexico,67,Soltero,$150K +,F,0,Posgrado,6,Silver,Profesional Indep.,Si,1,hasta $10K
+86139722466,Sinaloa,Mexico,42,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Gerente,No,1,Rechazado
+86713050007,Yucatan,Mexico,45,Soltero,$90K - $110K,M,0,Posgrado,8,Bronze,Profesional Indep.,Si,1,hasta $10K
+86730006900,DF,Mexico,39,Soltero,$50K - $90K,M,0,Secundaria completa,1,Bronze,Gerente,No,2,Rechazado
+84965397715,Zacatecas,Mexico,50,Soltero,$10K - $50K,F,0,Secundaria completa,7,Bronze,Empleado,Si,3,hasta $2K
+86851162300,Sinaloa,Mexico,60,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado,No,2,Rechazado fuerte
+87385726571,Yucatan,Mexico,63,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,4,Rechazado
+87319197058,DF,Mexico,104,Soltero,$10K - $50K,F,0,Universitario Incompleto,8,Bronze,Empleado Especializado,Si,2,hasta $2K
+87587122917,Mexico,Mexico,39,Soltero,$10K - $50K,M,0,Secundaria completa,10,Bronze,Empleado,No,4,hasta $5K
+87901939153,Zacatecas,Mexico,57,Casado,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+87939313100,DF,Mexico,102,Soltero,$50K - $90K,F,0,Universitario completo,1,Silver,Profesional Indep.,No,2,Rechazado
+87681713700,DF,Mexico,63,Soltero,$10K - $50K,F,0,Secundaria completa,9,Bronze,Empleado,No,3,hasta $5K
+88081979800,Oaxaca,Mexico,60,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+87978752300,DF,Mexico,54,Soltero,$10K - $50K,M,0,Secundaria incompleta,9,Golden,Empleado,Si,0,hasta $5K
+88118441700,Zacatecas,Mexico,67,Soltero,$10K - $50K,F,0,Secundaria completa,7,Silver,Empleado,Si,1,hasta $5K
+88426868915,Oaxaca,Mexico,54,Soltero,$110K - $150K,F,0,Posgrado,9,Silver,Profesional Indep.,Si,2,hasta $10K
+88820129036,DF,Mexico,60,Casado,$110K - $150K,M,0,Universitario completo,6,Silver,Profesional Indep.,Si,3,hasta $10K
+88161163926,Sinaloa,Mexico,47,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado,No,1,Rechazado
+89755527973,DF,Mexico,38,Casado,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+89933717846,DF,Mexico,45,Soltero,$50K - $90K,M,0,Universitario completo,9,Bronze,Profesional Indep.,Si,3,hasta $5K
+89674021000,Mexico,Mexico,44,Soltero,$10K - $50K,F,0,Universitario Incompleto,1,Bronze,Empleado Especializado,No,4,Rechazado fuerte
+90026039481,Sinaloa,Mexico,41,Casado,$10K - $50K,F,0,Secundaria incompleta,8,Golden,Empleado Especializado,Si,0,hasta $5K
+90351412892,Oaxaca,Mexico,57,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,1,Rechazado
+90308722853,DF,Mexico,59,Soltero,$10K - $50K,M,0,Secundaria incompleta,6,Normal,Empleado,Si,2,hasta $2K
+90362629890,DF,Mexico,58,Soltero,$10K - $50K,M,0,Universitario Incompleto,1,Bronze,Administrativo,No,4,Rechazado fuerte
+90526491403,Jalisco,Mexico,38,Casado,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+90812506079,Zacatecas,Mexico,50,Soltero,$110K - $150K,F,0,Universitario completo,1,Golden,Profesional Indep.,No,3,Rechazado
+91009777188,Yucatan,Mexico,56,Casado,$50K - $90K,F,0,Universitario completo,10,Bronze,Profesional Indep.,Si,4,hasta $5K
+91118540763,DF,Mexico,52,Soltero,$50K - $90K,F,0,Universitario completo,8,Bronze,Profesional Indep.,Si,1,hasta $5K
+91213276386,Oaxaca,Mexico,59,Casado,$50K - $90K,M,0,Universitario Incompleto,8,Bronze,Profesional Indep.,Si,3,hasta $5K
+91229932904,Mexico,Mexico,42,Casado,$110K - $150K,F,0,Posgrado,7,Bronze,Profesional Indep.,Si,2,hasta $10K
+91242796778,Yucatan,Mexico,64,Soltero,$90K - $110K,M,0,Universitario completo,6,Bronze,Profesional Indep.,Si,3,hasta $10K
+90634986758,Zacatecas,Mexico,60,Soltero,$10K - $50K,F,0,Secundaria completa,1,Bronze,Empleado Especializado,No,1,Rechazado fuerte
+91334227919,Veracruz,Mexico,49,Soltero,$50K - $90K,F,0,Secundaria completa,1,Bronze,Profesional Indep.,No,2,Rechazado
+91423320174,Guerrero,Mexico,63,Casado,$150K +,F,0,Universitario completo,10,Golden,Gerente,Si,3,hasta $10K
+91439402699,DF,Mexico,52,Soltero,$110K - $150K,M,0,Secundaria incompleta,8,Bronze,Gerente,Si,1,hasta $10K
+91494795680,Jalisco,Mexico,55,Soltero,$110K - $150K,F,0,Secundaria incompleta,8,Bronze,Profesional Indep.,Si,1,hasta $10K
+91993128657,DF,Mexico,44,Casado,$50K - $90K,M,0,Universitario completo,7,Bronze,Profesional Indep.,Si,1,hasta $5K
+92178785800,Jalisco,Mexico,40,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Gerente,No,2,Rechazado
+91248332858,Zacatecas,Mexico,40,Soltero,$10K - $50K,M,0,Secundaria incompleta,8,Normal,Empleado Especializado,Si,1,hasta $2K
+92483919262,Oaxaca,Mexico,60,Soltero,$50K - $90K,M,0,Universitario completo,6,Bronze,Profesional Indep.,Si,4,hasta $5K
+92745912100,Jalisco,Mexico,57,Soltero,$50K - $90K,M,0,Universitario completo,8,Bronze,Gerente,Si,2,hasta $5K
+92332229614,Oaxaca,Mexico,36,Soltero,$10K - $50K,F,0,Secundaria incompleta,8,Normal,Empleado,Si,0,hasta $2K
+92798000574,Mexico,Mexico,62,Soltero,$50K - $90K,M,0,Posgrado,1,Bronze,Profesional Indep.,No,4,Rechazado
+92786858677,Mexico,Mexico,46,Casado,$10K - $50K,F,0,Secundaria incompleta,8,Silver,Empleado,Si,4,hasta $5K
+92967188954,Sinaloa,Mexico,52,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Gerente,No,3,Rechazado
+92810746400,Oaxaca,Mexico,66,Soltero,$10K - $50K,F,0,Secundaria incompleta,9,Normal,Empleado Especializado,Si,1,hasta $2K
+93467839360,Yucatan,Mexico,39,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+93437905907,Zacatecas,Mexico,61,Soltero,$10K - $50K,M,0,Secundaria completa,1,Golden,Empleado,No,3,Rechazado
+94316458106,DF,Mexico,61,Soltero,$50K - $90K,F,0,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+93615929484,Zacatecas,Mexico,59,Soltero,$10K - $50K,F,0,Universitario Incompleto,1,Bronze,Profesional Indep.,No,2,Rechazado fuerte
+94327047500,DF,Mexico,50,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado Especializado,No,2,Rechazado fuerte
+95046260356,Sinaloa,Mexico,41,Soltero,$110K - $150K,M,0,Posgrado,10,Bronze,Profesional Indep.,Si,2,hasta $10K
+94630957841,Zacatecas,Mexico,40,Soltero,$10K - $50K,M,0,Secundaria incompleta,6,Bronze,Empleado,Si,2,hasta $2K
+95135867595,Jalisco,Mexico,40,Soltero,$10K - $50K,F,0,Universitario Incompleto,9,Bronze,Empleado,Si,3,hasta $2K
+95704914331,Veracruz,Mexico,40,Soltero,$10K - $50K,F,0,Universitario Incompleto,1,Bronze,Empleado Especializado,No,1,Rechazado fuerte
+96565281152,DF,Mexico,61,Soltero,$10K - $50K,M,0,Secundaria completa,8,Bronze,Empleado,Si,3,hasta $2K
+96852899789,DF,Mexico,46,Soltero,$10K - $50K,M,0,Universitario Incompleto,1,Bronze,Administrativo,No,2,Rechazado fuerte
+96939701437,DF,Mexico,44,Casado,$10K - $50K,F,0,Secundaria incompleta,9,Normal,Empleado Especializado,Si,0,hasta $2K
+97612184882,Sinaloa,Mexico,65,Soltero,$50K - $90K,M,0,Universitario completo,1,Golden,Profesional Indep.,No,2,Rechazado
+97962899804,Zacatecas,Mexico,57,Soltero,$50K - $90K,F,0,Secundaria incompleta,1,Golden,Empleado Especializado,No,1,Rechazado
+97043401002,Zacatecas,Mexico,51,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,2,Rechazado
+97993208800,Guerrero,Mexico,45,Soltero,$10K - $50K,M,0,Secundaria incompleta,7,Normal,Empleado,Si,0,hasta $2K
+98005648851,Oaxaca,Mexico,40,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,0,Rechazado
+98345404267,DF,Mexico,65,Soltero,$10K - $50K,F,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado fuerte
+98450981378,DF,Mexico,59,Soltero,$10K - $50K,M,0,Secundaria completa,1,Bronze,Empleado,No,1,Rechazado fuerte
+98989670872,DF,Mexico,41,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Golden,Empleado,No,1,Rechazado fuerte
+99163397550,DF,Mexico,46,Soltero,$10K - $50K,M,0,Secundaria completa,1,Golden,Empleado,No,1,Rechazado
+99887599349,Oaxaca,Mexico,47,Casado,$50K - $90K,F,0,Secundaria completa,7,Bronze,Empleado Especializado,Si,1,hasta $5K
+99567112922,DF,Mexico,66,Soltero,$10K - $50K,M,0,Secundaria incompleta,7,Normal,Empleado Especializado,Si,0,hasta $2K
+10231630206,DF,Mexico,54,Casado,$10K - $50K,M,1,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+10906897800,Zacatecas,Mexico,54,Casado,$50K - $90K,F,1,Universitario completo,8,Bronze,Gerente,Si,4,hasta $10K
+10610213300,DF,Mexico,60,Casado,$10K - $50K,F,1,Secundaria completa,9,Bronze,Empleado Especializado,Si,2,hasta $5K
+11186416149,Mexico,Mexico,38,Casado,$50K - $90K,M,1,Universitario completo,7,Bronze,Profesional Indep.,Si,3,hasta $10K
+10967483520,DF,Mexico,46,Casado,$10K - $50K,F,1,Secundaria incompleta,8,Bronze,Empleado Especializado,Si,3,hasta $5K
+11590989828,DF,Mexico,51,Casado,$50K - $90K,F,1,Secundaria incompleta,7,Bronze,Empleado,Si,1,hasta $10K
+11394131779,Jalisco,Mexico,63,Casado,$10K - $50K,M,1,Universitario completo,7,Normal,Profesional Indep.,Si,1,hasta $5K
+12022256851,Zacatecas,Mexico,55,Casado,$50K - $90K,M,1,Universitario completo,8,Bronze,Profesional Indep.,Si,3,hasta $10K
+11612914200,Zacatecas,Mexico,57,Casado,$10K - $50K,M,1,Universitario Incompleto,6,Bronze,Administrativo,Si,3,hasta $5K
+12376887800,Veracruz,Mexico,65,Casado,$10K - $50K,M,1,Secundaria incompleta,10,Bronze,Empleado Especializado,Si,0,hasta $5K
+13038234700,Sinaloa,Mexico,62,Casado,$50K - $90K,M,1,Universitario completo,10,Bronze,Profesional Indep.,Si,2,hasta $10K
+13040176600,DF,Mexico,47,Casado,$50K - $90K,F,1,Posgrado,1,Bronze,Profesional Indep.,No,2,Rechazado
+12928881000,Veracruz,Mexico,52,Casado,$10K - $50K,F,1,Universitario Incompleto,7,Bronze,Administrativo,Si,3,hasta $5K
+13389732837,Jalisco,Mexico,51,Casado,$10K - $50K,F,1,Secundaria incompleta,8,Normal,Empleado Especializado,Si,2,hasta $5K
+13900361100,DF,Mexico,64,Casado,$10K - $50K,F,1,Universitario completo,8,Bronze,Profesional Indep.,Si,4,hasta $5K
+13915016651,DF,Mexico,62,Casado,$10K - $50K,M,1,Secundaria completa,6,Bronze,Empleado Especializado,Si,2,hasta $5K
+14948922400,Jalisco,Mexico,50,Casado,$50K - $90K,F,1,Universitario completo,9,Bronze,Profesional Indep.,Si,2,hasta $10K
+14514361619,DF,Mexico,60,Casado,$10K - $50K,F,1,Secundaria completa,7,Silver,Empleado,Si,4,hasta $5K
+15679185986,Jalisco,Mexico,43,Casado,$50K - $90K,M,1,Secundaria completa,7,Bronze,Empleado Especializado,Si,4,hasta $10K
+15325960516,Zacatecas,Mexico,50,Casado,$10K - $50K,F,1,Secundaria incompleta,9,Normal,Empleado Especializado,Si,1,hasta $5K
+16523534655,DF,Mexico,51,Casado,$10K - $50K,F,1,Secundaria incompleta,8,Bronze,Empleado,Si,2,hasta $5K
+16675417423,DF,Mexico,44,Casado,$10K - $50K,M,1,Secundaria incompleta,1,Normal,Empleado,No,2,Rechazado fuerte
+17019308800,DF,Mexico,66,Casado,$110K - $150K,M,1,Posgrado,8,Bronze,Profesional Indep.,Si,1,hasta $10K
+17388176918,Mexico,Mexico,,Casado,$50K - $90K,F,1,Universitario completo,9,Bronze,Profesional Indep.,Si,3,hasta $10K
+17661982200,Jalisco,Mexico,51,Casado,$10K - $50K,F,1,Secundaria incompleta,8,Bronze,Empleado Especializado,Si,1,hasta $5K
+17698653340,DF,Mexico,52,Casado,$50K - $90K,M,1,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+17954691648,Mexico,Mexico,46,Casado,$50K - $90K,F,1,Secundaria incompleta,7,Bronze,Empleado,Si,1,hasta $10K
+19164539600,Zacatecas,Mexico,47,Casado,$10K - $50K,F,1,Secundaria incompleta,1,Normal,Empleado Especializado,No,2,Rechazado
+19264001250,DF,Mexico,35,Casado,$10K - $50K,M,1,Secundaria incompleta,10,Bronze,Empleado Especializado,Si,1,hasta $5K
+19368006587,Veracruz,Mexico,63,Casado,$110K - $150K,M,1,Posgrado,1,Golden,Gerente,No,2,Rechazado
+20083099603,Sinaloa,Mexico,56,Casado,$10K - $50K,M,1,Secundaria completa,6,Bronze,Empleado Especializado,Si,3,hasta $5K
+20648203492,Oaxaca,Mexico,61,Casado,$150K +,F,1,Universitario completo,1,Golden,Profesional Indep.,No,4,Rechazado
+20650826692,DF,Mexico,42,Casado,$50K - $90K,F,1,Universitario completo,8,Bronze,Profesional Indep.,Si,4,hasta $10K
+21892383694,Veracruz,Mexico,53,Casado,$10K - $50K,M,1,Universitario completo,7,Bronze,Profesional Indep.,Si,1,hasta $5K
+22752568100,Oaxaca,Mexico,60,Casado,$110K - $150K,M,1,Secundaria incompleta,7,Bronze,Gerente,Si,3,hasta $10K
+23129853010,Veracruz,Mexico,44,Casado,$50K - $90K,F,1,Universitario completo,7,Bronze,Profesional Indep.,Si,2,hasta $10K
+23542746901,DF,Mexico,46,Casado,$90K - $110K,M,1,Secundaria incompleta,9,Bronze,Profesional Indep.,Si,1,hasta $10K
+23905108000,Guerrero,Mexico,60,Casado,$10K - $50K,M,1,Secundaria completa,1,Bronze,Empleado Especializado,No,3,Rechazado
+24025367500,Jalisco,Mexico,53,Casado,$110K - $150K,F,1,Secundaria completa,9,Silver,Profesional Indep.,Si,2,hasta $10K
+24360541701,Guerrero,Mexico,44,Casado,$10K - $50K,F,1,Secundaria completa,6,Bronze,Empleado Especializado,Si,4,hasta $5K
+25286670923,Sinaloa,Mexico,46,Casado,$10K - $50K,M,1,Secundaria incompleta,7,Normal,Empleado Especializado,Si,1,hasta $5K
+25352476239,Sinaloa,Mexico,62,Casado,$50K - $90K,M,1,Secundaria incompleta,8,Golden,Empleado,Si,2,hasta $10K
+25409768223,Zacatecas,Mexico,56,Casado,$50K - $90K,F,1,Secundaria completa,1,Bronze,Profesional Indep.,No,1,Rechazado
+25838986039,Veracruz,Mexico,103,Casado,$10K - $50K,F,1,Secundaria incompleta,7,Normal,Empleado,Si,0,hasta $5K
+26243795800,DF,Mexico,36,Casado,$50K - $90K,F,1,Secundaria completa,7,Bronze,Empleado Especializado,Si,3,hasta $10K
+26425156000,Oaxaca,Mexico,57,Casado,$10K - $50K,F,1,Secundaria incompleta,6,Bronze,Empleado Especializado,Si,0,hasta $5K
+26680014133,DF,Mexico,63,Casado,$10K - $50K,F,1,Secundaria incompleta,8,Normal,Empleado,Si,1,hasta $5K
+26800568700,Oaxaca,Mexico,65,Casado,$90K - $110K,M,1,Universitario Incompleto,1,Bronze,Gerente,No,2,Rechazado
+26827192306,Mexico,Mexico,52,Casado,$10K - $50K,M,1,Secundaria completa,1,Silver,Empleado,No,2,Rechazado
+27456240100,Zacatecas,Mexico,50,Casado,$10K - $50K,F,1,Secundaria incompleta,6,Normal,Empleado,Si,1,hasta $5K
+27797787189,DF,Mexico,45,Casado,$10K - $50K,M,1,Secundaria completa,9,Bronze,Empleado,Si,1,hasta $5K
+27878516316,Zacatecas,Mexico,34,Casado,$10K - $50K,F,1,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+29071954488,Yucatan,Mexico,62,Casado,$110K - $150K,M,1,Posgrado,6,Silver,Profesional Indep.,Si,3,hasta $10K
+29554559000,Zacatecas,Mexico,55,Casado,$110K - $150K,F,1,Secundaria incompleta,7,Bronze,Profesional Indep.,Si,4,hasta $10K
+30731335282,Mexico,Mexico,56,Casado,$50K - $90K,F,1,Universitario completo,8,Bronze,Profesional Indep.,Si,3,hasta $10K
+30744091868,Yucatan,Mexico,58,Casado,$10K - $50K,F,1,Secundaria incompleta,1,Normal,Empleado Especializado,v,1,Rechazado
+30926036834,DF,Mexico,66,Casado,$10K - $50K,M,1,Secundaria completa,7,Bronze,Empleado Especializado,Si,2,hasta $5K
+31017189025,DF,Mexico,60,Casado,$50K - $90K,M,1,Universitario completo,8,Silver,Gerente,Si,2,hasta $10K
+31507770419,DF,Mexico,44,Casado,$10K - $50K,F,1,Secundaria completa,1,Bronze,Empleado Especializado,No,2,Rechazado
+32077444800,Mexico,Mexico,52,Casado,$10K - $50K,F,1,Secundaria incompleta,6,Bronze,Empleado Especializado,Si,4,hasta $5K
+32449338436,DF,Mexico,60,Casado,$90K - $110K,M,1,Posgrado,1,Silver,Gerente,No,3,Rechazado
+32511871500,Sinaloa,Mexico,44,Casado,$10K - $50K,M,1,Secundaria incompleta,8,Normal,Empleado,Si,1,hasta $5K
+33094189800,Zacatecas,Mexico,44,Casado,$10K - $50K,F,1,Secundaria completa,10,Bronze,Empleado Especializado,Si,3,hasta $5K
+33490518300,Zacatecas,Mexico,37,Casado,$10K - $50K,F,1,Secundaria incompleta,9,Normal,Empleado,Si,0,hasta $5K
+34062145352,Oaxaca,Mexico,64,Casado,$110K - $150K,M,1,Secundaria completa,10,Bronze,Profesional Indep.,Si,3,hasta $10K
+34427188600,Guerrero,Mexico,60,Casado,$10K - $50K,F,1,Secundaria completa,6,Normal,Empleado,Si,4,hasta $5K
+35223010778,Yucatan,Mexico,41,Casado,$50K - $90K,M,1,Universitario completo,1,Silver,Profesional Indep.,No,3,Rechazado
+36036197543,Zacatecas,Mexico,50,Casado,$50K - $90K,F,1,Secundaria completa,7,Bronze,Empleado Especializado,Si,2,hasta $10K
+36302025900,Zacatecas,Mexico,57,Casado,$10K - $50K,F,1,Universitario Incompleto,10,Bronze,Profesional Indep.,Si,3,hasta $5K
+36503170132,DF,Mexico,49,Casado,$50K - $90K,M,1,Universitario completo,9,Bronze,Profesional Indep.,Si,3,hasta $10K
+37169747352,Zacatecas,Mexico,56,Casado,$50K - $90K,M,1,Secundaria completa,9,Bronze,Empleado Especializado,Si,2,hasta $10K
+37341253161,Yucatan,Mexico,45,Casado,$10K - $50K,F,1,Secundaria incompleta,7,Normal,Empleado,Si,2,hasta $5K
+37402573800,DF,Mexico,40,Casado,$10K - $50K,F,1,Secundaria completa,6,Bronze,Empleado Especializado,Si,2,hasta $5K
+38540093302,Mexico,Mexico,43,Casado,$50K - $90K,F,1,Universitario completo,1,Bronze,Gerente,Si,2,Rechazado
+39803558600,Veracruz,Mexico,52,Casado,$10K - $50K,F,1,Secundaria completa,7,Bronze,Empleado,Si,1,hasta $5K
+39987660050,Zacatecas,Mexico,50,Casado,$50K - $90K,F,1,Universitario completo,8,Bronze,Profesional Indep.,Si,1,hasta $10K
+39993630647,Oaxaca,Mexico,104,Casado,$50K - $90K,M,1,Secundaria completa,1,Bronze,Empleado Especializado,No,3,Rechazado
+40089884400,Zacatecas,Mexico,44,Casado,$10K - $50K,F,1,Universitario Incompleto,1,Bronze,Empleado Especializado,Si,2,Rechazado
+40962519600,DF,Mexico,55,Casado,$10K - $50K,M,1,Secundaria incompleta,7,Normal,Empleado,Si,2,hasta $5K
+41176297100,DF,Mexico,58,Casado,$10K - $50K,M,1,Secundaria completa,9,Bronze,Empleado Especializado,Si,3,hasta $5K
+42387421727,Sinaloa,Mexico,59,Casado,$10K - $50K,F,1,Secundaria completa,7,Normal,Empleado,Si,2,hasta $5K
+42729049300,Oaxaca,Mexico,63,Casado,$90K - $110K,F,1,Secundaria incompleta,9,Bronze,Profesional Indep.,Si,2,hasta $10K
+42885159300,Yucatan,Mexico,56,Casado,$10K - $50K,F,1,Secundaria completa,7,Bronze,Empleado Especializado,Si,2,hasta $5K
+43125426173,Jalisco,Mexico,58,Casado,$110K - $150K,M,1,Universitario completo,9,Bronze,Profesional Indep.,Si,3,hasta $10K
+43783436400,Veracruz,Mexico,50,Casado,$10K - $50K,M,1,Secundaria incompleta,8,Normal,Empleado,Si,1,hasta $5K
+44440899500,Zacatecas,Mexico,49,Casado,$110K - $150K,M,1,Secundaria incompleta,6,Bronze,Profesional Indep.,Si,1,hasta $10K
+44465221762,DF,Mexico,66,Casado,$10K - $50K,M,1,Secundaria completa,10,Bronze,Empleado,Si,2,hasta $5K
+44575052900,DF,Mexico,63,Casado,$110K - $150K,F,1,Secundaria completa,9,Bronze,Profesional Indep.,Si,4,hasta $10K
+44790085554,Zacatecas,Mexico,66,Casado,$50K - $90K,F,1,Universitario completo,10,Bronze,Gerente,Si,3,hasta $10K
+44844491481,DF,Mexico,48,Casado,$10K - $50K,F,1,Secundaria incompleta,1,Normal,Empleado,No,2,Rechazado
+47939894800,DF,Mexico,48,Casado,$10K - $50K,M,1,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado fuerte
+48044468800,Guerrero,Mexico,61,Casado,$10K - $50K,M,1,Secundaria incompleta,7,Normal,Empleado,Si,1,hasta $5K
+50022978800,Mexico,Mexico,63,Casado,$50K - $90K,F,1,Universitario completo,9,Bronze,Gerente,Si,3,hasta $10K
+51142280697,DF,Mexico,52,Casado,$50K - $90K,F,1,Universitario Incompleto,1,Bronze,Profesional Indep.,No,2,Rechazado
+52399458885,Yucatan,Mexico,65,Casado,$10K - $50K,F,1,Secundaria completa,1,Bronze,Empleado,No,3,Rechazado fuerte
+53045721100,DF,Mexico,63,Casado,$110K - $150K,F,1,Secundaria incompleta,9,Bronze,Profesional Indep.,Si,1,hasta $10K
+53673454500,Jalisco,Mexico,41,Casado,$10K - $50K,F,1,Universitario Incompleto,6,Bronze,Administrativo,Si,3,hasta $5K
+53740381000,DF,Mexico,44,Casado,$110K - $150K,M,1,Secundaria completa,7,Bronze,Profesional Indep.,Si,3,hasta $10K
+53839445710,DF,Mexico,67,Casado,$50K - $90K,M,1,Secundaria completa,1,Bronze,Empleado Especializado,No,1,Rechazado
+53967821598,Jalisco,Mexico,60,Casado,$50K - $90K,M,1,Universitario completo,7,Bronze,Gerente,Si,4,hasta $10K
+54478750228,DF,Mexico,51,Casado,$50K - $90K,M,1,Universitario completo,1,Bronze,Profesional Indep.,No,4,Rechazado
+54824497700,Jalisco,Mexico,67,Casado,$50K - $90K,F,1,Universitario completo,7,Bronze,Profesional Indep.,Si,2,hasta $10K
+56270884300,Zacatecas,Mexico,55,Casado,$110K - $150K,M,1,Secundaria completa,1,Bronze,Gerente,No,2,Rechazado
+56415278315,Zacatecas,Mexico,59,Casado,$110K - $150K,F,1,Secundaria completa,1,Bronze,Gerente,No,1,Rechazado
+56709811687,Mexico,Mexico,103,Casado,$10K - $50K,M,1,Secundaria completa,6,Golden,Empleado,Si,2,hasta $5K
+56935095787,Zacatecas,Mexico,43,Casado,$10K - $50K,F,1,Secundaria incompleta,8,Bronze,Empleado,Si,3,hasta $5K
+57220702800,Veracruz,Mexico,49,Casado,$10K - $50K,M,1,Universitario Incompleto,1,Bronze,Empleado Especializado,No,2,Rechazado
+57898480900,Guerrero,Mexico,67,Casado,$10K - $50K,M,1,Secundaria incompleta,9,Normal,Empleado,Si,1,hasta $5K
+57991998800,Veracruz,Mexico,39,Casado,$110K - $150K,F,1,Posgrado,1,Bronze,Gerente,No,1,Rechazado
+58181722200,Sinaloa,Mexico,39,Casado,$10K - $50K,M,1,Universitario Incompleto,1,Golden,Gerente,No,4,Rechazado
+58469598293,DF,Mexico,54,Casado,$50K - $90K,M,1,Universitario completo,7,Bronze,Profesional Indep.,Si,1,hasta $10K
+59339706897,DF,Mexico,67,Casado,$10K - $50K,M,1,Universitario Incompleto,9,Bronze,Administrativo,Si,2,hasta $5K
+60367137800,Jalisco,Mexico,64,Casado,$10K - $50K,F,1,Secundaria completa,9,Bronze,Empleado Especializado,Si,3,hasta $5K
+60434064300,Mexico,Mexico,64,Casado,$10K - $50K,M,1,Secundaria incompleta,7,Normal,Empleado Especializado,Si,1,hasta $5K
+61551086306,Jalisco,Mexico,52,Casado,$10K - $50K,F,1,Secundaria completa,7,Bronze,Empleado,Si,1,hasta $5K
+61966410279,Oaxaca,Mexico,62,Casado,$10K - $50K,M,1,Universitario Incompleto,7,Bronze,Gerente,Si,1,hasta $5K
+61989965438,Jalisco,Mexico,54,Casado,$50K - $90K,F,1,Universitario completo,6,Bronze,Gerente,Si,2,hasta $10K
+62001209259,Guerrero,Mexico,103,Casado,$10K - $50K,M,1,Secundaria completa,10,Bronze,Empleado,Si,3,hasta $5K
+62087554931,Guerrero,Mexico,63,Casado,$50K - $90K,F,1,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+62383536696,Veracruz,Mexico,37,Casado,$10K - $50K,M,1,Secundaria completa,9,Bronze,Empleado Especializado,Si,2,hasta $5K
+63334905500,Jalisco,Mexico,67,Casado,$10K - $50K,F,1,Universitario Incompleto,8,Bronze,Empleado,Si,2,hasta $5K
+63964151740,Zacatecas,Mexico,39,Casado,$50K - $90K,F,1,Universitario completo,7,Bronze,Gerente,Si,2,hasta $10K
+65753179788,DF,Mexico,44,Casado,$10K - $50K,F,1,Secundaria completa,1,Bronze,Empleado,No,2,Rechazado fuerte
+67310513257,DF,Mexico,43,Casado,$10K - $50K,F,1,Secundaria incompleta,8,Normal,Empleado Especializado,Si,0,hasta $5K
+67428664565,DF,Mexico,114,Casado,$10K - $50K,F,1,Secundaria completa,1,Bronze,Empleado Especializado,No,3,Rechazado fuerte
+68728602500,Sinaloa,Mexico,67,Casado,$50K - $90K,F,1,Secundaria incompleta,1,Bronze,Profesional Indep.,No,4,Rechazado
+68837956200,Sinaloa,Mexico,64,Casado,$10K - $50K,M,1,Secundaria incompleta,6,Normal,Empleado Especializado,Si,0,hasta $5K
+68892496228,Zacatecas,Mexico,57,Casado,$50K - $90K,F,1,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+70409124493,Mexico,Mexico,60,Casado,$50K - $90K,M,1,Universitario completo,6,Bronze,Gerente,Si,3,hasta $10K
+70545107126,Yucatan,Mexico,66,Casado,$10K - $50K,M,1,Universitario Incompleto,8,Silver,Profesional Indep.,Si,4,hasta $5K
+70567052960,DF,Mexico,37,Casado,$150K +,F,1,Secundaria incompleta,9,Normal,Profesional Indep.,Si,3,hasta $10K
+70912076200,DF,Mexico,50,Casado,$110K - $150K,F,1,Secundaria completa,6,Bronze,Profesional Indep.,Si,4,hasta $10K
+71083319187,DF,Mexico,51,Casado,$10K - $50K,M,1,Secundaria incompleta,9,Normal,Empleado,Si,2,hasta $5K
+71544219255,Yucatan,Mexico,40,Casado,$110K - $150K,F,1,Secundaria incompleta,6,Bronze,Profesional Indep.,Si,4,hasta $10K
+71987910270,Veracruz,Mexico,62,Casado,$10K - $50K,F,1,Secundaria completa,8,Bronze,Empleado,Si,3,hasta $5K
+74418109655,Veracruz,Mexico,54,Casado,$10K - $50K,F,1,Secundaria incompleta,9,Normal,Empleado Especializado,Si,1,hasta $5K
+76686008572,Mexico,Mexico,61,Casado,$50K - $90K,M,1,Universitario completo,8,Bronze,Profesional Indep.,Si,3,hasta $10K
+76862015128,Jalisco,Mexico,66,Casado,$90K - $110K,F,1,Posgrado,7,Silver,Gerente,Si,2,hasta $10K
+77046325802,DF,Mexico,65,Casado,$10K - $50K,M,1,Secundaria incompleta,6,Normal,Empleado,Si,1,hasta $5K
+77465656995,DF,Mexico,60,Casado,$110K - $150K,F,1,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+78415711522,DF,Mexico,67,Casado,$50K - $90K,F,1,Secundaria completa,9,Bronze,Empleado,Si,3,hasta $10K
+78918239474,DF,Mexico,66,Casado,$110K - $150K,M,1,Secundaria incompleta,7,Golden,Gerente,Si,2,hasta $10K
+80827940106,Veracruz,Mexico,57,Casado,$110K - $150K,M,1,Universitario completo,9,Bronze,Profesional Indep.,Si,2,hasta $10K
+80913861989,Zacatecas,Mexico,58,Casado,$10K - $50K,F,1,Secundaria incompleta,6,Normal,Empleado,Si,0,hasta $5K
+81274908800,Oaxaca,Mexico,67,Casado,$50K - $90K,F,1,Secundaria incompleta,9,Bronze,Gerente,Si,2,hasta $10K
+81713814700,Jalisco,Mexico,44,Casado,$90K - $110K,F,1,Universitario completo,7,Bronze,Profesional Indep.,Si,2,hasta $10K
+84789589600,DF,Mexico,63,Casado,$10K - $50K,M,1,Secundaria incompleta,1,Bronze,Empleado,No,2,Rechazado
+85597240328,Sinaloa,Mexico,66,Casado,$10K - $50K,F,1,Secundaria incompleta,8,Normal,Empleado Especializado,Si,0,hasta $5K
+87215073700,Zacatecas,Mexico,59,Casado,$10K - $50K,F,1,Secundaria incompleta,1,Golden,Empleado,No,2,Rechazado
+87521172800,Oaxaca,Mexico,65,Casado,$10K - $50K,F,1,Secundaria incompleta,9,Bronze,Empleado,Si,3,hasta $5K
+88537885546,Zacatecas,Mexico,62,Casado,$10K - $50K,F,1,Universitario Incompleto,1,Bronze,Administrativo,No,2,Rechazado
+91388601660,DF,Mexico,51,Casado,$10K - $50K,F,1,Secundaria incompleta,7,Normal,Empleado,Si,1,hasta $5K
+92065156698,DF,Mexico,49,Casado,$10K - $50K,M,1,Secundaria completa,9,Bronze,Empleado Especializado,Si,3,hasta $5K
+92646418200,Mexico,Mexico,38,Casado,$50K - $90K,F,1,Universitario completo,6,Bronze,Gerente,Si,3,Rechazado
+92701543000,Jalisco,Mexico,38,Casado,$50K - $90K,F,1,Universitario completo,1,Silver,Gerente,No,3,Rechazado
+93268470764,Guerrero,Mexico,54,Casado,$50K - $90K,M,1,Universitario completo,1,Golden,Profesional Indep.,No,1,Rechazado
+95241407155,Guerrero,Mexico,41,Casado,$10K - $50K,M,1,Secundaria incompleta,9,Normal,Empleado Especializado,Si,2,hasta $5K
+95865326523,DF,Mexico,63,Casado,$50K - $90K,F,1,Universitario completo,6,Golden,Profesional Indep.,Si,1,hasta $10K
+96085857748,Guerrero,Mexico,102,Casado,$10K - $50K,M,1,Secundaria incompleta,1,Golden,Empleado Especializado,No,0,Rechazado
+97615741491,Veracruz,Mexico,42,Casado,$10K - $50K,F,1,Secundaria completa,1,Bronze,Empleado,No,2,Rechazado
+98111376200,Zacatecas,Mexico,56,Casado,$90K - $110K,M,1,Universitario Incompleto,1,Silver,Gerente,No,1,Rechazado
+98360188603,DF,Mexico,35,Casado,$10K - $50K,M,1,Secundaria incompleta,10,Normal,Empleado Especializado,Si,1,hasta $5K
+10030158758,Sinaloa,Mexico,34,Casado,$50K - $90K,F,2,Secundaria completa,1,Bronze,Profesional Indep.,No,2,Rechazado
+10136771202,Veracruz,Mexico,47,Casado,$10K - $50K,F,2,Secundaria incompleta,9,Normal,Empleado,Si,1,hasta $2K
+10137243300,Sinaloa,Mexico,60,Casado,$10K - $50K,F,2,Secundaria incompleta,6,Silver,Empleado Especializado,Si,2,hasta $5K
+10325625500,Zacatecas,Mexico,63,Casado,$10K - $50K,F,2,Secundaria completa,1,Bronze,Empleado,No,2,Rechazado
+10463968515,Zacatecas,Mexico,41,Casado,$10K - $50K,F,2,Secundaria incompleta,7,Normal,Empleado Especializado,Si,0,hasta $2K
+11152175068,Jalisco,Mexico,49,Casado,$10K - $50K,F,2,Secundaria incompleta,7,Normal,Empleado Especializado,Si,1,hasta $2K
+11683574300,Sinaloa,Mexico,59,Casado,$10K - $50K,M,2,Universitario Incompleto,7,Bronze,Empleado Especializado,Si,3,hasta $2K
+11829143166,Guerrero,Mexico,48,Casado,$10K - $50K,F,2,Secundaria completa,1,Bronze,Empleado,No,3,Rechazado
+11857011318,Veracruz,Mexico,,Casado,$50K - $90K,F,2,Universitario completo,1,Bronze,Profesional Indep.,No,1,Rechazado
+12750363900,Veracruz,Mexico,38,Casado,$50K - $90K,F,2,Universitario completo,10,Silver,Profesional Indep.,Si,2,hasta $10K
+13395134806,Zacatecas,Mexico,41,Casado,$10K - $50K,F,2,Secundaria completa,7,Bronze,Empleado Especializado,Si,3,hasta $2K
+14160181283,Zacatecas,Mexico,56,Casado,$110K - $150K,M,2,Secundaria incompleta,10,Bronze,Gerente,Si,3,hasta $10K
+14367151260,Veracruz,Mexico,52,Casado,$150K +,M,2,Universitario completo,9,Golden,Profesional Indep.,Si,2,hasta $10K
+14724416136,Oaxaca,Mexico,53,Casado,$110K - $150K,M,2,Posgrado,7,Golden,Gerente,Si,4,hasta $10K
+14966651797,Guerrero,Mexico,51,Casado,$10K - $50K,M,2,Secundaria incompleta,8,Normal,Empleado,Si,2,hasta $2K
+17220833900,Mexico,Mexico,50,Casado,$10K - $50K,M,2,Secundaria completa,9,Bronze,Empleado,Si,1,hasta $2K
+17342734900,Veracruz,Mexico,64,Casado,$10K - $50K,M,2,Secundaria incompleta,1,Normal,Empleado,No,0,Rechazado fuerte
+18068084716,DF,Mexico,103,Casado,$10K - $50K,F,2,Secundaria incompleta,8,Silver,Empleado,Si,1,hasta $5K
+18581620500,DF,Mexico,50,Casado,$10K - $50K,M,2,Universitario Incompleto,9,Bronze,Empleado,Si,4,hasta $2K
+19263126850,DF,Mexico,65,Casado,$50K - $90K,F,2,Universitario completo,9,Bronze,Profesional Indep.,Si,1,hasta $5K
+19834249600,DF,Mexico,57,Casado,$10K - $50K,F,2,Secundaria completa,7,Bronze,Empleado Especializado,Si,3,hasta $2K
+20296163600,DF,Mexico,52,Casado,$90K - $110K,F,2,Secundaria completa,7,Normal,Gerente,Si,2,hasta $10K
+-1,Guerrero,Mexico,52,Casado,$50K - $90K,F,2,Universitario completo,1,Bronze,Gerente,No,3,Rechazado
+21535236835,Oaxaca,Mexico,66,Casado,$10K - $50K,F,2,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado fuerte
+21549388200,Zacatecas,Mexico,57,Casado,$10K - $50K,F,2,Universitario Incompleto,6,Bronze,Empleado Especializado,Si,3,hasta $2K
+21918229500,Mexico,Mexico,54,Casado,$10K - $50K,M,2,Secundaria incompleta,6,Bronze,Empleado Especializado,Si,2,hasta $2K
+22565982900,Mexico,Mexico,45,Casado,$10K - $50K,M,2,Secundaria completa,9,Bronze,Empleado Especializado,Si,1,hasta $2K
+23771405200,Oaxaca,Mexico,65,Casado,$50K - $90K,F,2,Secundaria completa,7,Silver,Empleado,Si,2,hasta $10K
+24099015600,Mexico,Mexico,60,Casado,$10K - $50K,M,2,Universitario Incompleto,7,Bronze,Gerente,Si,3,hasta $2K
+24728540800,Veracruz,Mexico,44,Casado,$10K - $50K,M,2,Secundaria completa,10,Bronze,Empleado,Si,1,hasta $2K
+24775200486,DF,Mexico,57,Casado,$50K - $90K,M,2,Universitario completo,1,Bronze,Gerente,No,3,Rechazado
+25118303298,Oaxaca,Mexico,52,Casado,$110K - $150K,F,2,Secundaria completa,7,Bronze,Profesional Indep.,Si,4,hasta $10K
+25191629528,Oaxaca,Mexico,39,Casado,$10K - $50K,M,2,Secundaria completa,1,Bronze,Empleado,No,3,Rechazado
+26061840100,Mexico,Mexico,44,Casado,$10K - $50K,M,2,Secundaria incompleta,6,Normal,Empleado,Si,2,hasta $2K
+26610083580,DF,Mexico,57,Casado,$10K - $50K,M,2,Secundaria completa,8,Silver,Empleado,Si,3,hasta $5K
+26986756920,Zacatecas,Mexico,51,Casado,$10K - $50K,F,2,Universitario Incompleto,7,Bronze,Administrativo,Si,2,hasta $2K
+27940411000,Jalisco,Mexico,55,Casado,$10K - $50K,F,2,Secundaria incompleta,1,Normal,Empleado,No,2,Rechazado
+29903632402,Veracruz,Mexico,52,Casado,$50K - $90K,F,2,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+30130756500,Veracruz,Mexico,60,Casado,$50K - $90K,M,2,Universitario Incompleto,1,Silver,Empleado Especializado,No,2,Rechazado
+31798929572,Zacatecas,Mexico,41,Casado,$90K - $110K,F,2,Secundaria incompleta,9,Bronze,Gerente,Si,2,hasta $10K
+32709314227,Zacatecas,Mexico,41,Casado,$10K - $50K,M,2,Secundaria completa,8,Bronze,Empleado Especializado,Si,2,hasta $2K
+34005910200,DF,Mexico,39,Casado,$10K - $50K,F,2,Secundaria completa,1,Normal,Empleado,No,2,Rechazado fuerte
+36168317794,Jalisco,Mexico,62,Casado,$90K - $110K,M,2,Secundaria completa,9,Bronze,Profesional Indep.,Si,1,hasta $10K
+36511533260,Yucatan,Mexico,46,Casado,$50K - $90K,F,2,Universitario completo,8,Bronze,Profesional Indep.,Si,2,hasta $5K
+36933498382,Oaxaca,Mexico,46,Casado,$50K - $90K,F,2,Universitario completo,8,Bronze,Gerente,Si,2,hasta $5K
+37284079194,DF,Mexico,44,Casado,$10K - $50K,F,2,Secundaria incompleta,8,Normal,Empleado,Si,1,hasta $2K
+39401329159,DF,Mexico,48,Casado,$50K - $90K,M,2,Posgrado,7,Bronze,Profesional Indep.,Si,2,hasta $5K
+39624590900,Veracruz,Mexico,52,Casado,$50K - $90K,M,2,Universitario completo,1,Bronze,Gerente,No,2,Rechazado
+43893986300,Guerrero,Mexico,56,Casado,$50K - $90K,F,2,Secundaria incompleta,8,Bronze,Gerente,Si,2,hasta $5K
+44652434600,Zacatecas,Mexico,67,Casado,$10K - $50K,M,2,Secundaria completa,7,Bronze,Empleado,Si,3,hasta $2K
+45221084356,DF,Mexico,53,Casado,$10K - $50K,F,2,Secundaria incompleta,1,Bronze,Empleado Especializado,No,2,Rechazado
+45359792100,Jalisco,Mexico,54,Casado,$10K - $50K,F,2,Universitario completo,1,Normal,Profesional Indep.,No,0,Rechazado
+46127204300,DF,Mexico,49,Casado,$110K - $150K,M,2,Posgrado,8,Bronze,Profesional Indep.,Si,2,hasta $10K
+46993182301,Jalisco,Mexico,56,Casado,$10K - $50K,F,2,Secundaria completa,10,Bronze,Empleado Especializado,Si,4,hasta $2K
+47220697999,DF,Mexico,60,Casado,$110K - $150K,M,2,Secundaria completa,9,Bronze,Profesional Indep.,Si,1,hasta $10K
+47522264122,Oaxaca,Mexico,47,Casado,$10K - $50K,M,2,Secundaria completa,8,Bronze,Empleado Especializado,Si,3,hasta $2K
+47540728400,Mexico,Mexico,67,Casado,$50K - $90K,M,2,Universitario completo,1,Bronze,Gerente,No,4,Rechazado
+47889040112,Yucatan,Mexico,56,Casado,$50K - $90K,F,2,Universitario completo,9,Bronze,Gerente,Si,2,hasta $5K
+47890359759,Guerrero,Mexico,60,Casado,$10K - $50K,M,2,Secundaria completa,1,Bronze,Empleado,Si,2,Rechazado
+49077548384,Guerrero,Mexico,67,Casado,$110K - $150K,M,2,Posgrado,7,Bronze,Gerente,Si,2,hasta $10K
+49142243266,DF,Mexico,53,Casado,$50K - $90K,M,2,Universitario completo,8,Bronze,Gerente,Si,2,hasta $5K
+50269999504,DF,Mexico,55,Casado,$10K - $50K,F,2,Secundaria incompleta,10,Normal,Empleado Especializado,Si,2,hasta $2K
+50676107400,Zacatecas,Mexico,52,Casado,$10K - $50K,M,2,Secundaria incompleta,9,Normal,Empleado Especializado,Si,0,hasta $2K
+52813270100,Zacatecas,Mexico,57,Casado,$50K - $90K,F,2,Universitario completo,8,Bronze,Profesional Indep.,Si,2,hasta $5K
+53505617976,Oaxaca,Mexico,62,Casado,$10K - $50K,F,2,Secundaria completa,10,Bronze,Empleado,Si,2,hasta $2K
+54549394249,DF,Mexico,37,Casado,$50K - $90K,M,2,Universitario completo,7,Bronze,Profesional Indep.,Si,3,hasta $5K
+55498692400,Sinaloa,Mexico,67,Casado,$10K - $50K,M,2,Secundaria incompleta,1,Normal,Empleado,No,2,Rechazado fuerte
+55970632433,Guerrero,Mexico,43,Casado,$10K - $50K,M,2,Universitario Incompleto,9,Bronze,Gerente,Si,2,hasta $2K
+56599095463,Guerrero,Mexico,36,Casado,$10K - $50K,M,2,Secundaria completa,1,Bronze,Empleado Especializado,No,1,Rechazado
+56881371140,Zacatecas,Mexico,62,Casado,$10K - $50K,F,2,Secundaria completa,8,Bronze,Empleado,Si,1,hasta $2K
+58568491300,Yucatan,Mexico,66,Casado,$10K - $50K,F,2,Secundaria incompleta,1,Normal,Empleado,No,0,Rechazado fuerte
+58862638500,DF,Mexico,104,Casado,$10K - $50K,F,2,Secundaria incompleta,8,Normal,Empleado Especializado,Si,1,hasta $2K
+59110565781,DF,Mexico,52,Casado,$50K - $90K,M,2,Universitario completo,1,Bronze,Profesional Indep.,No,2,Rechazado
+60713239312,DF,Mexico,63,Casado,$50K - $90K,F,2,Universitario completo,1,Golden,Gerente,No,3,Rechazado
+60886563700,Mexico,Mexico,53,Casado,$90K - $110K,M,2,Secundaria completa,6,Bronze,Profesional Indep.,Si,2,hasta $10K
+63042115569,Veracruz,Mexico,42,Casado,$10K - $50K,M,2,Secundaria completa,1,Bronze,Empleado,No,3,Rechazado
+63544128537,Oaxaca,Mexico,57,Casado,$10K - $50K,M,2,Secundaria completa,6,Bronze,Empleado Especializado,Si,2,hasta $2K
+64307571053,Sinaloa,Mexico,55,Casado,$50K - $90K,M,2,Universitario completo,8,Bronze,Profesional Indep.,Si,4,hasta $5K
+64576478600,Guerrero,Mexico,51,Casado,$50K - $90K,M,2,Universitario completo,1,Bronze,Gerente,No,2,Rechazado
+65095904500,Yucatan,Mexico,40,Casado,$10K - $50K,F,2,Secundaria completa,7,Normal,Empleado Especializado,Si,1,hasta $2K
+65976704400,Jalisco,Mexico,48,Casado,$10K - $50K,M,2,Secundaria completa,9,Bronze,Empleado,Si,2,hasta $2K
+68533139228,Oaxaca,Mexico,51,Casado,$10K - $50K,M,2,Secundaria incompleta,8,Normal,Empleado,Si,1,hasta $2K
+69700790643,Yucatan,Mexico,39,Casado,$50K - $90K,F,2,Universitario completo,7,Bronze,Profesional Indep.,Si,3,hasta $5K
+69865306600,Yucatan,Mexico,46,Casado,$90K - $110K,M,2,Universitario Incompleto,8,Bronze,Profesional Indep.,Si,3,hasta $10K
+71024610996,Jalisco,Mexico,67,Casado,$50K - $90K,F,2,Universitario completo,8,Bronze,Profesional Indep.,Si,1,hasta $5K
+71071158051,Oaxaca,Mexico,43,Casado,$10K - $50K,F,2,Secundaria completa,8,Golden,Empleado,Si,3,hasta $5K
+73991504311,DF,Mexico,67,Casado,$110K - $150K,F,2,Posgrado,7,Bronze,Profesional Indep.,Si,2,hasta $10K
+76950538800,Yucatan,Mexico,41,Casado,$50K - $90K,M,2,Universitario completo,8,Silver,Gerente,Si,4,hasta $10K
+77163141369,DF,Mexico,52,Casado,$10K - $50K,M,2,Secundaria completa,1,Bronze,Empleado,Si,3,Rechazado
+78302506208,Mexico,Mexico,41,Casado,$50K - $90K,F,2,Universitario completo,10,Bronze,Gerente,Si,2,hasta $5K
+80152774453,Oaxaca,Mexico,55,Casado,$10K - $50K,F,2,Secundaria incompleta,10,Normal,Empleado Especializado,Si,0,hasta $2K
+80767434800,Yucatan,Mexico,36,Casado,$50K - $90K,F,2,Universitario completo,9,Bronze,Gerente,Si,3,hasta $5K
+81728904843,Veracruz,Mexico,54,Casado,$110K - $150K,M,2,Secundaria incompleta,8,Bronze,Profesional Indep.,Si,3,hasta $10K
+81966548562,Guerrero,Mexico,54,Casado,$10K - $50K,F,2,Secundaria completa,1,Bronze,Empleado,No,4,Rechazado
+83952831625,Jalisco,Mexico,42,Casado,$50K - $90K,M,2,Secundaria incompleta,9,Bronze,Profesional Indep.,Si,2,hasta $5K
+84243513345,DF,Mexico,51,Casado,$10K - $50K,M,2,Secundaria incompleta,10,Silver,Empleado,Si,1,hasta $5K
+84556114077,Zacatecas,Mexico,60,Casado,$110K - $150K,M,2,Secundaria incompleta,7,Bronze,Gerente,Si,2,hasta $10K
+86930223107,Veracruz,Mexico,61,Casado,$10K - $50K,M,2,Secundaria completa,8,Bronze,Empleado,Si,3,hasta $2K
+87462024688,Oaxaca,Mexico,53,Casado,$10K - $50K,F,2,Secundaria incompleta,9,Bronze,Empleado Especializado,Si,4,hasta $2K
+87539744377,DF,Mexico,62,Casado,$50K - $90K,M,2,Universitario completo,8,Bronze,Profesional Indep.,Si,3,hasta $5K
+87603285908,Zacatecas,Mexico,65,Casado,$50K - $90K,F,2,Secundaria completa,7,Bronze,Empleado Especializado,Si,2,hasta $5K
+89165082573,Jalisco,Mexico,50,Casado,$10K - $50K,F,2,Secundaria incompleta,10,Normal,Empleado,Si,0,hasta $2K
+91536670327,Oaxaca,Mexico,65,Casado,$90K - $110K,M,2,Secundaria incompleta,7,Bronze,Profesional Indep.,Si,4,hasta $10K
+93026315600,Jalisco,Mexico,61,Casado,$10K - $50K,F,2,Secundaria completa,1,Bronze,Empleado,No,2,Rechazado
+93239116668,Yucatan,Mexico,45,Casado,$10K - $50K,M,2,Secundaria completa,7,Bronze,Empleado Especializado,Si,4,hasta $2K
+93297009468,Guerrero,Mexico,38,Casado,$50K - $90K,F,2,Universitario completo,1,Bronze,Gerente,No,3,Rechazado
+93940916657,DF,Mexico,37,Casado,$10K - $50K,M,2,Secundaria incompleta,9,Normal,Empleado,Si,1,hasta $2K
+97438431382,DF,Mexico,65,Casado,$10K - $50K,M,2,Secundaria completa,1,Bronze,Empleado,No,2,Rechazado fuerte
+98433702588,Guerrero,Mexico,67,Casado,$10K - $50K,F,2,Secundaria completa,1,Bronze,Empleado Especializado,No,2,Rechazado fuerte
+99622151851,Zacatecas,Mexico,50,Casado,$50K - $90K,F,2,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+10078985700,Oaxaca,Mexico,60,Casado,$10K - $50K,F,3,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+11535312533,Jalisco,Mexico,41,Casado,$10K - $50K,M,3,Secundaria completa,6,Normal,Empleado,Si,3,hasta $5K
+11998186700,Sinaloa,Mexico,47,Casado,$10K - $50K,M,3,Secundaria completa,10,Golden,Empleado Especializado,Si,4,hasta $5K
+12280832500,Jalisco,Mexico,49,Casado,$50K - $90K,M,3,Universitario completo,8,Golden,Profesional Indep.,Si,4,hasta $10K
+12549294829,Oaxaca,Mexico,36,Casado,$10K - $50K,M,3,Secundaria incompleta,8,Golden,Empleado Especializado,Si,2,hasta $5K
+12606350800,Mexico,Mexico,50,Casado,$110K - $150K,M,3,Universitario completo,7,Silver,Profesional Indep.,Si,3,hasta $10K
+13854650855,Guerrero,Mexico,57,Casado,$10K - $50K,M,3,Secundaria incompleta,9,Normal,Empleado Especializado,Si,1,hasta $5K
+14675358533,Zacatecas,Mexico,51,Casado,$10K - $50K,M,3,Secundaria completa,9,Golden,Empleado,Si,2,hasta $5K
+15700225234,Veracruz,Mexico,63,Casado,$10K - $50K,F,3,Universitario Incompleto,8,Golden,Profesional Indep.,Si,2,hasta $5K
+15855718300,DF,Mexico,64,Casado,$10K - $50K,F,3,Secundaria incompleta,6,Normal,Empleado,Si,1,hasta $5K
+17693653700,DF,Mexico,45,Casado,$10K - $50K,F,3,Universitario Incompleto,10,Golden,Empleado Especializado,Si,3,hasta $5K
+17776228189,Yucatan,Mexico,42,Casado,$110K - $150K,M,3,Universitario completo,1,Golden,Profesional Indep.,No,3,Rechazado
+17821530700,Yucatan,Mexico,39,Casado,$10K - $50K,F,3,Secundaria incompleta,7,Normal,Empleado Especializado,Si,1,hasta $5K
+18524553800,Oaxaca,Mexico,49,Casado,$10K - $50K,M,3,Universitario Incompleto,10,Golden,Profesional Indep.,Si,4,hasta $5K
+18857217431,Guerrero,Mexico,56,Casado,$50K - $90K,F,3,Secundaria completa,8,Silver,Empleado,Si,3,hasta $10K
+19534126500,Oaxaca,Mexico,104,Casado,$10K - $50K,F,3,Secundaria completa,9,Golden,Empleado Especializado,Si,3,hasta $5K
+20535631200,DF,Mexico,55,Casado,$10K - $50K,M,3,Secundaria completa,8,Golden,Empleado Especializado,Si,3,hasta $5K
+21187477707,DF,Mexico,54,Casado,$10K - $50K,M,3,Secundaria incompleta,7,Normal,Empleado,Si,1,hasta $5K
+21954825520,DF,Mexico,60,Casado,$10K - $50K,F,3,Secundaria completa,7,Silver,Empleado,Si,2,hasta $5K
+23029795885,DF,Mexico,36,Casado,$10K - $50K,F,3,Secundaria completa,7,Golden,Empleado,Si,3,hasta $5K
+-1,Yucatan,Mexico,50,Casado,$110K - $150K,M,3,Secundaria incompleta,6,Bronze,Profesional Indep.,Si,3,hasta $10K
+26420226097,Zacatecas,Mexico,49,Casado,$50K - $90K,F,3,Secundaria completa,9,Golden,Empleado,Si,3,hasta $10K
+27928609300,Yucatan,Mexico,49,Casado,$10K - $50K,F,3,Secundaria completa,1,Golden,Empleado Especializado,No,3,Rechazado
+29838996500,Yucatan,Mexico,42,Casado,$10K - $50K,F,3,Secundaria incompleta,6,Golden,Empleado,Si,4,hasta $5K
+32395796200,DF,Mexico,50,Casado,$10K - $50K,F,3,Universitario Incompleto,6,Golden,Profesional Indep.,Si,4,hasta $5K
+33082463145,Veracruz,Mexico,38,Casado,$50K - $90K,F,3,Universitario completo,9,Golden,Gerente,Si,3,hasta $10K
+33728795100,Veracruz,Mexico,67,Casado,$10K - $50K,F,3,Secundaria completa,9,Golden,Empleado,Si,3,hasta $5K
+35994886159,Zacatecas,Mexico,65,Casado,$10K - $50K,F,3,Secundaria completa,7,Golden,Empleado,Si,3,hasta $5K
+37449480295,Oaxaca,Mexico,57,Casado,$10K - $50K,M,3,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
+37518557906,Zacatecas,Mexico,51,Casado,$50K - $90K,F,3,Universitario completo,8,Golden,Profesional Indep.,Si,2,hasta $10K
+38446806100,Guerrero,Mexico,52,Casado,$110K - $150K,F,3,Secundaria incompleta,9,Golden,Profesional Indep.,Si,3,hasta $10K
+41026908800,Oaxaca,Mexico,50,Casado,$10K - $50K,F,3,Secundaria incompleta,1,Normal,Empleado,No,1,Rechazado
+42053733468,DF,Mexico,50,Casado,$110K - $150K,F,3,Secundaria completa,9,Golden,Profesional Indep.,Si,3,hasta $10K
+43466200828,Yucatan,Mexico,34,Casado,$110K - $150K,F,3,Secundaria incompleta,7,Golden,Gerente,Si,3,hasta $10K
+44394738700,Yucatan,Mexico,42,Casado,$50K - $90K,F,3,Universitario completo,9,Golden,Profesional Indep.,Si,3,hasta $10K
+44663490700,Jalisco,Mexico,50,Casado,$110K - $150K,F,3,Secundaria completa,9,Bronze,Profesional Indep.,Si,3,hasta $10K
+45757563710,DF,Mexico,58,Casado,$10K - $50K,F,3,Universitario Incompleto,8,Golden,Empleado Especializado,Si,2,hasta $5K
+46013950705,Zacatecas,Mexico,58,Casado,$50K - $90K,F,3,Universitario completo,7,Golden,Gerente,Si,2,hasta $10K
+49074378013,DF,Mexico,40,Casado,$10K - $50K,M,3,Secundaria incompleta,10,Normal,Empleado,Si,1,hasta $5K
+49075703000,DF,Mexico,49,Casado,$10K - $50K,M,3,Secundaria incompleta,7,Normal,Empleado Especializado,Si,2,hasta $5K
+49220451116,Zacatecas,Mexico,54,Casado,$50K - $90K,F,3,Universitario completo,8,Golden,Profesional Indep.,Si,3,hasta $10K
+49523771405,Oaxaca,Mexico,47,Casado,$90K - $110K,F,3,Secundaria completa,9,Golden,Profesional Indep.,Si,4,hasta $10K
+49823991100,Jalisco,Mexico,47,Casado,$10K - $50K,F,3,Secundaria completa,1,Silver,Empleado Especializado,No,3,Rechazado
+56824969600,DF,Mexico,52,Casado,$50K - $90K,M,3,Universitario completo,7,Golden,Profesional Indep.,Si,4,hasta $10K
+59396108400,Yucatan,Mexico,43,Casado,$50K - $90K,M,3,Universitario completo,8,Golden,Gerente,Si,3,hasta $10K
+60968279800,Veracruz,Mexico,56,Casado,$50K - $90K,M,3,Universitario completo,6,Golden,Profesional Indep.,Si,4,hasta $10K
+62289895415,DF,Mexico,48,Casado,$10K - $50K,M,3,Secundaria incompleta,8,Bronze,Empleado,Si,1,hasta $5K
+65370632400,Mexico,Mexico,59,Casado,$50K - $90K,M,3,Universitario completo,8,Golden,Profesional Indep.,Si,3,hasta $10K
+69082058700,Oaxaca,Mexico,39,Casado,$150K +,M,3,Universitario Incompleto,1,Golden,Profesional Indep.,No,3,Rechazado
+69104465842,Mexico,Mexico,65,Casado,$10K - $50K,M,3,Universitario Incompleto,6,Golden,Empleado Especializado,Si,2,hasta $5K
+70233101800,Guerrero,Mexico,60,Casado,$50K - $90K,M,3,Universitario completo,9,Golden,Profesional Indep.,Si,3,hasta $10K
+70927380919,Yucatan,Mexico,35,Casado,$10K - $50K,M,3,Secundaria completa,1,Golden,Empleado,No,4,Rechazado
+71521618962,DF,Mexico,57,Casado,$50K - $90K,F,3,Universitario completo,10,Golden,Gerente,Si,3,hasta $10K
+72582153677,DF,Mexico,57,Casado,$10K - $50K,F,3,Secundaria incompleta,9,Normal,Empleado Especializado,Si,2,hasta $5K
+74447351098,Mexico,Mexico,55,Casado,$10K - $50K,M,3,Universitario Incompleto,8,Golden,Administrativo,Si,4,hasta $5K
+75673807263,Yucatan,Mexico,58,Casado,$50K - $90K,F,3,Universitario completo,8,Bronze,Profesional Indep.,Si,3,hasta $10K
+76441299915,Sinaloa,Mexico,52,Casado,$10K - $50K,M,3,Secundaria completa,7,Silver,Empleado,Si,3,hasta $5K
+76785094738,Mexico,Mexico,51,Casado,$10K - $50K,M,3,Secundaria incompleta,7,Normal,Empleado Especializado,Si,1,hasta $5K
+78940528631,DF,Mexico,58,Casado,$10K - $50K,M,3,Secundaria completa,1,Golden,Empleado,No,4,Rechazado fuerte
+79132269024,Yucatan,Mexico,47,Casado,$10K - $50K,M,3,Secundaria completa,6,Golden,Empleado,Si,3,hasta $5K
+80113887786,Veracruz,Mexico,103,Casado,$10K - $50K,M,3,Secundaria completa,8,Golden,Empleado,Si,2,hasta $5K
+81649286150,DF,Mexico,56,Casado,$50K - $90K,M,3,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+81879768371,Veracruz,Mexico,48,Casado,$50K - $90K,F,3,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+82942647337,Yucatan,Mexico,65,Casado,$50K - $90K,F,3,Secundaria completa,9,Bronze,Profesional Indep.,Si,4,hasta $10K
+84121671300,Guerrero,Mexico,41,Casado,$10K - $50K,F,3,Secundaria incompleta,8,Golden,Empleado,Si,4,hasta $5K
+84297651100,Zacatecas,Mexico,60,Casado,$10K - $50K,F,3,Secundaria incompleta,9,Normal,Empleado,Si,1,hasta $5K
+87849287390,DF,Mexico,49,Casado,$50K - $90K,F,3,Universitario completo,7,Golden,Gerente,Si,3,hasta $10K
+88531920313,Guerrero,Mexico,50,Casado,$50K - $90K,M,3,Universitario completo,8,Golden,Profesional Indep.,Si,2,hasta $10K
+89879821538,DF,Mexico,46,Casado,$10K - $50K,M,3,Secundaria incompleta,7,Normal,Empleado Especializado,Si,2,hasta $5K
+90320428000,Yucatan,Mexico,39,Casado,$50K - $90K,F,3,Universitario completo,1,Golden,Profesional Indep.,No,3,Rechazado
+93951489925,Veracruz,Mexico,38,Casado,$10K - $50K,F,3,Universitario completo,8,Normal,Profesional Indep.,Si,1,hasta $5K
+94290885925,Zacatecas,Mexico,43,Casado,$150K +,F,3,Secundaria completa,8,Golden,Profesional Indep.,Si,3,hasta $10K
+95847103595,Sinaloa,Mexico,102,Casado,$10K - $50K,F,3,Secundaria incompleta,7,Normal,Empleado,Si,1,hasta $5K
+96888540983,Veracruz,Mexico,57,Casado,$50K - $90K,F,3,Universitario completo,7,Golden,Profesional Indep.,Si,4,hasta $10K
+97333889603,Zacatecas,Mexico,61,Casado,$50K - $90K,F,3,Universitario completo,6,Golden,Profesional Indep.,Si,2,hasta $10K
+97793137431,Guerrero,Mexico,59,Casado,$10K - $50K,F,3,Secundaria completa,9,Golden,Empleado,Si,3,hasta $5K
+98041783571,Mexico,Mexico,51,Casado,$10K - $50K,M,3,Secundaria completa,8,Golden,Empleado,Si,2,hasta $5K
+99788395166,Mexico,Mexico,38,Casado,$110K - $150K,M,3,Secundaria completa,10,Silver,Profesional Indep.,Si,1,hasta $10K
+10151137100,Mexico,Mexico,51,Casado,$10K - $50K,F,4,Secundaria completa,7,Golden,Empleado,Si,3,hasta $5K
+10495033900,Veracruz,Mexico,41,Casado,$10K - $50K,F,4,Secundaria incompleta,1,Normal,Empleado Especializado,No,0,Rechazado
+15333599400,Guerrero,Mexico,52,Casado,$10K - $50K,F,4,Secundaria completa,1,Golden,Empleado,No,2,Rechazado
+15492831468,Mexico,Mexico,43,Casado,$10K - $50K,M,4,Secundaria incompleta,9,Golden,Empleado,Si,2,hasta $5K
+18152874700,DF,Mexico,51,Casado,$10K - $50K,F,4,Secundaria incompleta,1,Normal,Empleado,No,1,Rechazado fuerte
+19453316926,Guerrero,Mexico,49,Casado,$10K - $50K,M,4,Universitario Incompleto,9,Golden,Empleado Especializado,Si,2,hasta $5K
+20992701053,Zacatecas,Mexico,43,Casado,$50K - $90K,F,4,Secundaria completa,1,Golden,Profesional Indep.,No,2,Rechazado
+26892552375,DF,Mexico,47,Casado,$50K - $90K,F,4,Universitario completo,8,Silver,Profesional Indep.,Si,2,hasta $10K
+31341065764,DF,Mexico,52,Casado,$10K - $50K,M,4,Secundaria completa,1,Golden,Empleado Especializado,No,2,Rechazado fuerte
+31350920200,Jalisco,Mexico,58,Casado,$10K - $50K,F,4,Universitario completo,1,Normal,Profesional Indep.,No,2,Rechazado
+31668429374,Zacatecas,Mexico,46,Casado,$10K - $50K,F,4,Secundaria completa,9,Silver,Empleado Especializado,Si,2,hasta $5K
+36723599400,Oaxaca,Mexico,50,Casado,$110K - $150K,F,4,Posgrado,7,Golden,Profesional Indep.,Si,3,hasta $10K
+37677628993,DF,Mexico,38,Casado,$10K - $50K,F,4,Universitario Incompleto,6,Golden,Profesional Indep.,Si,3,hasta $5K
+38008795976,Jalisco,Mexico,56,Casado,$50K - $90K,F,4,Universitario completo,1,Golden,Profesional Indep.,No,2,Rechazado
+38757534600,Zacatecas,Mexico,60,Casado,$10K - $50K,M,4,Secundaria incompleta,10,Normal,Empleado,Si,1,hasta $5K
+38822819600,Zacatecas,Mexico,46,Casado,$10K - $50K,M,4,Secundaria incompleta,1,Normal,Empleado Especializado,No,2,Rechazado
+47091522812,Mexico,Mexico,47,Casado,$50K - $90K,M,4,Secundaria incompleta,1,Golden,Profesional Indep.,No,3,Rechazado
+47679162621,DF,Mexico,44,Casado,$110K - $150K,F,4,Secundaria incompleta,8,Golden,Profesional Indep.,Si,3,hasta $10K
+47961953282,Veracruz,Mexico,54,Casado,$10K - $50K,M,4,Secundaria completa,8,Golden,Empleado Especializado,Si,3,hasta $5K
+52981782600,Zacatecas,Mexico,66,Casado,$50K - $90K,M,4,Universitario completo,10,Golden,Gerente,Si,2,hasta $10K
+53527097105,DF,Mexico,39,Casado,$50K - $90K,M,4,Secundaria completa,1,Golden,Empleado,No,3,Rechazado
+55527939200,DF,Mexico,55,Casado,$50K - $90K,M,4,Universitario completo,7,Normal,Profesional Indep.,Si,3,hasta $10K
+56325858800,Jalisco,Mexico,64,Casado,$50K - $90K,M,4,Universitario completo,7,Golden,Profesional Indep.,Si,3,hasta $10K
+56326835155,Zacatecas,Mexico,51,Casado,$110K - $150K,F,4,Secundaria incompleta,7,Silver,Profesional Indep.,Si,3,hasta $10K
+56852355003,Jalisco,Mexico,66,Casado,$10K - $50K,M,4,Secundaria incompleta,6,Normal,Empleado,Si,1,hasta $5K
+62381203200,Zacatecas,Mexico,65,Casado,$10K - $50K,M,4,Secundaria incompleta,9,Golden,Empleado,Si,2,hasta $5K
+62647138833,DF,Mexico,46,Casado,$10K - $50K,M,4,Secundaria completa,8,Golden,Empleado Especializado,Si,2,hasta $5K
+63584586977,Guerrero,Mexico,48,Casado,$10K - $50K,M,4,Secundaria incompleta,7,Normal,Empleado Especializado,Si,1,hasta $5K
+66396636400,Guerrero,Mexico,48,Casado,$10K - $50K,F,4,Secundaria incompleta,1,Normal,Empleado Especializado,No,0,Rechazado
+66900376700,Jalisco,Mexico,54,Casado,$10K - $50K,F,4,Universitario Incompleto,1,Normal,Profesional Indep.,Si,1,Rechazado
+67516753673,Zacatecas,Mexico,59,Casado,$50K - $90K,F,4,Universitario completo,1,Golden,Gerente,No,3,Rechazado
+70132197141,Oaxaca,Mexico,44,Casado,$110K - $150K,F,4,Universitario completo,7,Golden,Gerente,Si,3,hasta $10K
+73269351720,Sinaloa,Mexico,60,Casado,$90K - $110K,M,4,Secundaria completa,6,Golden,Profesional Indep.,Si,4,hasta $10K
+75663550500,DF,Mexico,39,Casado,$50K - $90K,M,4,Universitario completo,7,Golden,Gerente,Si,3,hasta $10K
+77372922301,DF,Mexico,42,Casado,$10K - $50K,F,4,Universitario Incompleto,6,Golden,Empleado,Si,3,hasta $5K
+78641220927,DF,Mexico,49,Casado,$50K - $90K,F,4,Universitario completo,8,Golden,Profesional Indep.,Si,3,hasta $10K
+80121081471,Sinaloa,Mexico,42,Casado,$10K - $50K,F,4,Secundaria incompleta,7,Normal,Empleado,Si,1,hasta $5K
+80302983500,DF,Mexico,61,Casado,$10K - $50K,M,4,Secundaria completa,9,Golden,Empleado,Si,3,hasta $5K
+80800898100,DF,Mexico,46,Casado,$150K +,F,4,Universitario completo,1,Bronze,Profesional Indep.,No,3,Rechazado
+83581270575,Zacatecas,Mexico,66,Casado,$10K - $50K,F,4,Secundaria incompleta,6,Bronze,Empleado Especializado,Si,3,hasta $5K
+84676851034,Oaxaca,Mexico,60,Casado,$10K - $50K,M,4,Secundaria completa,8,Silver,Empleado,Si,4,hasta $5K
+91176331639,Guerrero,Mexico,48,Casado,$10K - $50K,M,4,Secundaria incompleta,10,Silver,Empleado,Si,4,hasta $5K
+96546671986,Yucatan,Mexico,40,Casado,$10K - $50K,F,4,Secundaria incompleta,1,Bronze,Empleado,No,1,Rechazado
+13026057481,Zacatecas,Mexico,104,Casado,$10K - $50K,F,5,Secundaria incompleta,6,Normal,Empleado Especializado,Si,0,hasta $5K
+16463184952,DF,Mexico,39,Casado,$10K - $50K,F,5,Secundaria completa,1,Normal,Empleado Especializado,No,0,Rechazado fuerte
+18048450900,Zacatecas,Mexico,42,Casado,$110K - $150K,F,5,Secundaria completa,8,Golden,Gerente,Si,3,hasta $10K
+18818416595,Mexico,Mexico,55,Casado,$10K - $50K,F,5,Secundaria incompleta,6,Normal,Empleado Especializado,Si,0,hasta $5K
+22640945315,DF,Mexico,42,Casado,$10K - $50K,F,5,Secundaria incompleta,9,Golden,Empleado,Si,3,hasta $5K
+25337064266,Zacatecas,Mexico,49,Casado,$110K - $150K,F,5,Universitario Incompleto,1,Silver,Profesional Indep.,No,3,Rechazado
+33001417500,DF,Mexico,54,Casado,$10K - $50K,F,5,Universitario Incompleto,1,Golden,Empleado Especializado,No,3,Rechazado fuerte
+33239844400,Zacatecas,Mexico,43,Casado,$50K - $90K,F,5,Secundaria completa,6,Golden,Profesional Indep.,Si,3,hasta $10K
+38032399400,Oaxaca,Mexico,42,Casado,$90K - $110K,F,5,Secundaria completa,7,Golden,Profesional Indep.,Si,2,hasta $10K
+46299107074,Zacatecas,Mexico,52,Casado,$10K - $50K,M,5,Secundaria completa,1,Golden,Empleado Especializado,No,4,Rechazado
+48894493000,Yucatan,Mexico,49,Casado,$90K - $110K,M,5,Secundaria incompleta,10,Golden,Profesional Indep.,Si,2,hasta $10K
+57063069343,DF,Mexico,36,Casado,$110K - $150K,F,5,Secundaria completa,8,Golden,Profesional Indep.,Si,3,hasta $10K
+63057189600,DF,Mexico,54,Casado,$50K - $90K,F,5,Universitario completo,7,Golden,Gerente,Si,3,hasta $10K
+66966557500,Veracruz,Mexico,58,Casado,$10K - $50K,M,5,Secundaria completa,7,Golden,Empleado Especializado,Si,3,hasta $5K
+67579088211,Zacatecas,Mexico,55,Casado,$50K - $90K,F,5,Posgrado,8,Golden,Gerente,Si,3,hasta $10K
+67855253815,Veracruz,Mexico,53,Casado,$10K - $50K,F,5,Secundaria incompleta,7,Normal,Empleado,Si,2,hasta $5K
+77312465310,DF,Mexico,50,Casado,$10K - $50K,M,5,Universitario Incompleto,7,Golden,Empleado Especializado,Si,3,hasta $5K
+78078783154,Sinaloa,Mexico,53,Casado,$50K - $90K,M,5,Secundaria completa,7,Bronze,Gerente,Si,4,hasta $10K
+78516964912,Sinaloa,Mexico,43,Casado,$10K - $50K,F,5,Secundaria incompleta,10,Normal,Empleado Especializado,Si,1,hasta $5K
+83447052836,Sinaloa,Mexico,44,Casado,$10K - $50K,M,5,Secundaria completa,7,Silver,Empleado,Si,3,hasta $5K
+86350565552,DF,Mexico,66,Casado,$10K - $50K,F,5,Secundaria incompleta,1,Normal,Empleado Especializado,No,0,Rechazado fuerte
+98503643870,DF,Mexico,48,Casado,$10K - $50K,M,5,Posgrado,1,Silver,Profesional Indep.,No,2, Rechazado fuerte
+98765684962,Yucatan,Mexico,50,Casado,$50K - $90K,F,5,Universitario completo,9,Golden,Profesional Indep.,Si,4,hasta $10K
+99112381935,Sinaloa,Mexico,49,Casado,$110K - $150K,M,5,Universitario completo,10,Golden,Gerente,Si,3,hasta $10K
+11650255918,Jalisco,Mexico,44,Soltero,$90K - $110K,M,10,Posgrado,10,Bronze,Gerente,Si,2,hasta $10K
+12913689017,DF,Mexico,39,Casado,$10K - $50K,M,22,Univer
