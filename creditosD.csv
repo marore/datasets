@@ -1172,8 +1172,10 @@ nro_cta,estado,pais,edad,est_civil,ingreso_anual,sexo,hijos,educacion,antiguedad
 78516964912,Sinaloa,Mexico,43,Casado,$10K - $50K,F,5,Secundaria incompleta,10,Normal,Empleado Especializado,Si,1,hasta $5K
 83447052836,Sinaloa,Mexico,44,Casado,$10K - $50K,M,5,Secundaria completa,7,Silver,Empleado,Si,3,hasta $5K
 86350565552,DF,Mexico,66,Casado,$10K - $50K,F,5,Secundaria incompleta,1,Normal,Empleado Especializado,No,0,Rechazado fuerte
-98503643870,DF,Mexico,48,Casado,$10K - $50K,M,5,Posgrado,1,Silver,Profesional Indep.,No,2, Rechazado fuerte
+98503643870,DF,Mexico,48,Casado,$10K - $50K,M,5,Posgrado,1,Silver,Profesional Indep.,No,2,Rechazado fuerte
 98765684962,Yucatan,Mexico,50,Casado,$50K - $90K,F,5,Universitario completo,9,Golden,Profesional Indep.,Si,4,hasta $10K
 99112381935,Sinaloa,Mexico,49,Casado,$110K - $150K,M,5,Universitario completo,10,Golden,Gerente,Si,3,hasta $10K
 11650255918,Jalisco,Mexico,44,Soltero,$90K - $110K,M,10,Posgrado,10,Bronze,Gerente,Si,2,hasta $10K
-12913689017,DF,Mexico,39,Casado,$10K - $50K,M,22,Univer
+12913689017,DF,Mexico,39,Casado,$10K - $50K,M,22,Universitario Incompleto,9,Bronze,Profesional Indep.,Si,2,hasta $2K
+15793571500,Zacatecas,Mexico,44,Soltero,$10K - $50K,F,43,Universitario completo,1,Normal,Profesional Indep.,No,0,Rechazado
+14032851457,Guerrero,Mexico,41,Soltero,$110K - $150K,M,65,Secundaria completa,9,Bronze,Profesional Indep.,Si,1,hasta $10K
