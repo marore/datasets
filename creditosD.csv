@@ -1,4 +1,4 @@
-nro_cta,estado,pais,edad,est_civil,ingreso_anual,sexo,hijos,educacion,antiguedad,tipo_tarj_cred,ocupacion,es_propietario,cant_tarj_cred,monto_otorgado
+﻿nro_cta,estado,pais,edad,est_civil,ingreso_anual,sexo,hijos,educacion,antiguedad,tipo_tarj_cred,ocupacion,es_propietario,cant_tarj_cred,monto_otorgado
 10128703117,Jalisco,Mexico,52,Soltero,$50K - $90K,M,0,Universitario completo,1,Bronze,Gerente,No,3,Rechazado
 15109543800,Oaxaca,Mexico,49,Soltero,$10K - $50K,M,0,Secundaria incompleta,1,Normal,Empleado Especializado,No,1,Rechazado
 10412276983,Yucatan,Mexico,45,Soltero,$90K - $110K,F,0,Secundaria incompleta,8,Bronze,Profesional Indep.,Si,2,hasta $10K
